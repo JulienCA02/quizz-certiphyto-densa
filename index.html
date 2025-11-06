@@ -90,7 +90,7 @@
     const feedbackDiv = document.getElementById("feedback");
 
     // Charger les questions depuis le JSON
-    fetch("questions.json")
+    fetch("./questions.json")
       .then(res => res.json())
       .then(data => {
         questions = data;
@@ -165,3 +165,4 @@
   </script>
 </body>
 </html>
+
