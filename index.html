@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz d'entraînement Certiphyto DENSA</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f7f7f7;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      background: #fff;
+      border-radius: 1rem;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      padding: 2rem;
+      max-width: 700px;
+      width: 100%;
+    }
+    h1 { text-align: center; color: #333; }
+    .question { margin-top: 1.5rem; }
+    .option {
+      display: block;
+      background: #eee;
+      margin: 8px 0;
+      padding: 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .option:hover { background: #ddd; }
+    button {
+      padding: 10px 18px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin: 10px 5px;
+      font-size: 1rem;
+    }
+    #next { background: #007bff; color: white; }
+    #stop { background: #ff4757; color: white; }
+    #score {
+      text-align: center;
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-top: 2rem;
+    }
+    #feedback {
+      text-align: center;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+    #progress {
+      text-align: center;
+      margin-top: 10px;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz d'entraînement Certiphyto DENSA</h1>
+    <div id="progress"></div>
+    <div id="quiz"></div>
+    <div id="feedback"></div>
+    <div id="controls" style="text-align:center; margin-top:1rem;">
+      <button id="next">Valider</button>
+      <button id="stop">Arrêter le quiz</button>
+    </div>
+    <p id="score"></p>
+  </div>
+
+  <script>
+    const NB_QUESTIONS = 30;
+    let questions = [];
+    let selected = [];
+    let current = 0;
+    let score = 0;
+    let waitingNext = false;
+
+    const quizDiv = document.getElementById("quiz");
+    const scoreDiv = document.getElementById("score");
+    const nextBtn = document.getElementById("next");
+    const stopBtn = document.getElementById("stop");
+    const progressDiv = document.getElementById("progress");
+    const feedbackDiv = document.getElementById("feedback");
+
+    // Charger les questions depuis le JSON
+    fetch("questions.json")
+      .then(res => res.json())
+      .then(data => {
+        questions = data;
+        selected = data.sort(() => Math.random() - 0.5).slice(0, NB_QUESTIONS);
+        showQuestion();
+      })
+      .catch(err => {
+        quizDiv.innerHTML = "<p>⚠️ Impossible de charger les questions.</p>";
+        console.error(err);
+      });
+
+    function showQuestion() {
+      const q = selected[current];
+      feedbackDiv.textContent = "";
+      waitingNext = false;
+      nextBtn.textContent = "Valider";
+      progressDiv.textContent = `Question ${current + 1} / ${selected.length}`;
+      quizDiv.innerHTML = `
+        <div class="question">
+          <h3>${current + 1}. ${q.q}</h3>
+          ${q.options.map((opt, i) => `
+            <label class="option">
+              <input type="checkbox" name="opt" value="${i}">
+              ${opt}
+            </label>`).join('')}
+          <p style="font-style:italic; color:#666;">(Tu peux cocher plusieurs réponses)</p>
+        </div>
+      `;
+    }
+
+    nextBtn.addEventListener("click", () => {
+      // Si on attend la prochaine question
+      if (waitingNext) {
+        current++;
+        if (current < selected.length) showQuestion();
+        else showScore();
+        return;
+      }
+
+      const chosen = Array.from(document.querySelectorAll('input[name="opt"]:checked')).map(c => parseInt(c.value));
+      if (chosen.length === 0) return alert("Choisis au moins une réponse !");
+
+      const correct = arraysEqual(chosen.sort(), selected[current].answers.slice().sort());
+      if (correct) {
+        score++;
+        feedbackDiv.style.color = "green";
+        feedbackDiv.textContent = "✅ Bonne réponse !";
+      } else {
+        feedbackDiv.style.color = "red";
+        feedbackDiv.textContent = "❌ Mauvaise réponse.";
+      }
+
+      waitingNext = true;
+      nextBtn.textContent = current + 1 === selected.length ? "Afficher le score" : "Question suivante";
+    });
+
+    stopBtn.addEventListener("click", () => {
+      if (confirm("Arrêter le quiz ? Le score sera affiché.")) showScore();
+    });
+
+    function arraysEqual(a, b) {
+      return a.length === b.length && a.every((v, i) => v === b[i]);
+    }
+
+    function showScore() {
+      quizDiv.innerHTML = "";
+      feedbackDiv.textContent = "";
+      document.getElementById("controls").style.display = "none";
+      progressDiv.style.display = "none";
+      scoreDiv.innerHTML = `✅ Score final : ${score} / ${current}`;
+    }
+  </script>
+</body>
+</html>
