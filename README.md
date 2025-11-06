@@ -17,8 +17,8 @@ Il permet de s’exercer à partir d’un pool de questions aléatoires et d’o
 
 ## Utilisation
 
-Le quiz est accessible en ligne via GitHub Pages :  
-[https://JulienCA02.github.io/Quizz-certiphyto-DENSA/](https://JulienCA02.github.io/Quizz-certiphyto-DENSA/)
+Le quiz est accessible en ligne via GitHub Pages :
+[https://julienca02.github.io/quizz-certiphyto-densa/](https://julienca02.github.io/quizz-certiphyto-densa/)
 
 Pour l’utiliser localement :
 1. Télécharger les fichiers `index.html` et `questions.json`
