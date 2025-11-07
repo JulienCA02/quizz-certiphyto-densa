@@ -1,234 +1,202 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Quiz d'entraînement Certiphyto décideur en entreprise non soumise à agrément (DENSA) - Exploitation agricole</title>
-  <style>
-    body {
-      font-family: system-ui, sans-serif;
-      background: #f7f7f7;
-      margin: 0;
-      padding: 2rem;
-      display: flex;
-      justify-content: center;
-    }
-    .container {
-      background: #fff;
-      border-radius: 1rem;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      padding: 2rem;
-      max-width: 700px;
-      width: 100%;
-    }
-    h1 { text-align: center; color: #333; }
-    #logo {
-      display: block;
-      margin: 20px auto;
-      max-width: 180px;
-      height: auto;
-      opacity: 0;
-      animation: fadeIn 1.2s ease forwards;
-    }
-    @keyframes fadeIn { to { opacity: 1; } }
-    .question { margin-top: 1.5rem; }
-    .option {
-      display: block;
-      background: #eee;
-      margin: 8px 0;
-      padding: 10px;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background 0.2s;
-    }
-    .option.correct { background: #c8f7c5 !important; }
-    .option.incorrect { background: #f7c5c5 !important; }
-    button {
-      padding: 10px 18px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      margin: 10px 5px;
-      font-size: 1rem;
-    }
-    #next { background: #007bff; color: white; }
-    #stop { background: #ff4757; color: white; }
-    #restart { background: #28a745; color: white; }
-    #score {
-      text-align: center;
-      font-size: 1.2rem;
-      font-weight: bold;
-      margin-top: 2rem;
-    }
-    #feedback {
-      text-align: center;
-      font-weight: bold;
-      margin-top: 1rem;
-    }
-    #progress {
-      text-align: center;
-      margin-top: 10px;
-      font-weight: 600;
-    }
-    #start-screen {
-      text-align: center;
-      margin-top: 2rem;
-    }
-    #start {
-      background: #007bff;
-      color: white;
-      font-size: 1.2rem;
-      padding: 12px 24px;
-      border-radius: 8px;
-      cursor: pointer;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz d'entraînement Certiphyto</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #d4f1e5, #b3e5fc);
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  padding: 20px 40px;
+}
+button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s, background 0.3s;
+  color: white;
+}
+button:hover {
+  transform: scale(1.05);
+}
+button.green {background: #43a047;}
+button.green:hover {background: #66bb6a;}
+button.blue {background: #1e88e5;}
+button.blue:hover {background: #42a5f5;}
+button.purple {background: #8e24aa;}
+button.purple:hover {background: #ab47bc;}
+#quiz-container {display: none;}
+#result-container {display: none;}
+#logo {width: 120px; margin: 20px auto; display: block;}
+.option {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 8px 0;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.option.correct {background-color: #c8e6c9;}
+.option.incorrect {background-color: #ffcdd2;}
+.hidden {display: none;}
+</style>
 </head>
 <body>
-  <div class="container">
-    <h1>Quiz d'entraînement Certiphyto décideur en entreprise non soumise à agrément (DENSA) - Exploitation agricole</h1>
-    <img id="logo" src="logo.png" alt="Logo Certiphyto DENSA">
-    
-    <div id="start-screen">
-      <p>Bienvenue dans le quiz d'entraînement !</p>
-      <p>Tu devras répondre à <strong>30 questions</strong>. Il faut au moins <strong>15 bonnes réponses</strong> pour réussir 💪</p>
-      <button id="start">Commencer le quiz</button>
-    </div>
+<div class="container" id="start-container">
+  <img src="logo.png" id="logo" alt="Logo">
+  <h1>Quiz d'entraînement Certiphyto</h1>
+  <p>Choisissez votre catégorie :</p>
+  <button class="green" onclick="startQuiz('questions-densa-ea.json',30,15,'DENSA-EA - Décideur en entreprise non soumise à agrément - Exploitation agricole')">DENSA-EA<br><small>Décideur en entreprise non soumise à agrément - Exploitation agricole</small></button>
+  <button class="green" onclick="startQuiz('questions-densa-col.json',30,15,'DENSA-COL - Décideur en entreprise non soumise à agrément - Collectivité')">DENSA-COL<br><small>Décideur en entreprise non soumise à agrément - Collectivité</small></button>
+  <button class="blue" onclick="startQuiz('questions-desa.json',30,20,'DESA - Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier')">DESA<br><small>Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier</small></button>
+  <button class="purple" onclick="startQuiz('questions-operateur-ea.json',20,12,'Opérateur-EA - Exploitation agricole')">Opérateur-EA<br><small>Opérateur - Exploitation agricole</small></button>
+  <button class="purple" onclick="startQuiz('questions-operateur-col.json',20,12,'Opérateur-COL - Collectivité')">Opérateur-COL<br><small>Opérateur - Collectivité</small></button>
+</div>
 
-    <div id="progress" style="display:none;"></div>
-    <div id="quiz" style="display:none;"></div>
-    <div id="feedback"></div>
+<div class="container" id="quiz-container">
+  <h2 id="category-title"></h2>
+  <p id="question-number"></p>
+  <p id="question-text"></p>
+  <div id="options"></div>
+  <button id="validate-btn" onclick="validateAnswer()">Valider</button>
+  <button onclick="stopQuiz()">Arrêter le quiz</button>
+</div>
 
-    <div id="controls" style="text-align:center; margin-top:1rem; display:none;">
-      <button id="next">Valider</button>
-      <button id="stop">Arrêter le quiz</button>
-    </div>
+<div class="container" id="result-container">
+  <h2>Résultat</h2>
+  <p id="score-text"></p>
+  <button onclick="restartQuiz()">Recommencer</button>
+  <button onclick="goHome()">Accueil</button>
+</div>
 
-    <p id="score"></p>
-  </div>
+<script>
+let questions = [];
+let currentQuestionIndex = 0;
+let score = 0;
+let selectedAnswers = [];
+let quizLength = 30;
+let passingScore = 15;
+let categoryTitle = "";
+let categoryFile = "";
 
-  <script>
-    const NB_QUESTIONS = 30;
-    const SCORE_REQUIS = 15;
-    let questions = [];
-    let selected = [];
-    let current = 0;
-    let score = 0;
-    let waitingNext = false;
+async function startQuiz(file, length, pass, title) {
+  quizLength = length;
+  passingScore = pass;
+  categoryTitle = title;
+  categoryFile = file;
+  document.getElementById('category-title').textContent = title;
+  document.getElementById('start-container').style.display = 'none';
+  document.getElementById('quiz-container').style.display = 'block';
 
-    const quizDiv = document.getElementById("quiz");
-    const scoreDiv = document.getElementById("score");
-    const nextBtn = document.getElementById("next");
-    const stopBtn = document.getElementById("stop");
-    const progressDiv = document.getElementById("progress");
-    const feedbackDiv = document.getElementById("feedback");
-    const startScreen = document.getElementById("start-screen");
-    const controlsDiv = document.getElementById("controls");
+  try {
+    const response = await fetch(`${file}?v=${Date.now()}`);
+    questions = await response.json();
+    shuffle(questions);
+    questions = questions.slice(0, quizLength);
+    currentQuestionIndex = 0;
+    score = 0;
+    showQuestion();
+  } catch (e) {
+    alert("Erreur lors du chargement du quiz.");
+  }
+}
 
-    fetch("./questions.json")
-      .then(res => res.json())
-      .then(data => { questions = data; })
-      .catch(err => {
-        quizDiv.innerHTML = "<p>⚠️ Impossible de charger les questions.</p>";
-        console.error(err);
-      });
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
 
-    document.getElementById("start").addEventListener("click", startQuiz);
+function showQuestion() {
+  const q = questions[currentQuestionIndex];
+  document.getElementById('question-number').textContent = `Question ${currentQuestionIndex + 1} sur ${quizLength}`;
+  document.getElementById('question-text').textContent = q.q;
+  const optionsDiv = document.getElementById('options');
+  optionsDiv.innerHTML = "";
+  selectedAnswers = [];
+  q.options.forEach((opt, i) => {
+    const div = document.createElement('div');
+    div.textContent = opt;
+    div.classList.add('option');
+    div.onclick = () => toggleSelect(div, i);
+    optionsDiv.appendChild(div);
+  });
+  document.getElementById('validate-btn').disabled = false;
+}
 
-    function startQuiz() {
-      startScreen.style.display = "none";
-      quizDiv.style.display = "block";
-      controlsDiv.style.display = "block";
-      progressDiv.style.display = "block";
-      scoreDiv.textContent = "";
-      feedbackDiv.textContent = "";
-      current = 0;
-      score = 0;
-      selected = questions.sort(() => Math.random() - 0.5).slice(0, NB_QUESTIONS);
+function toggleSelect(div, index) {
+  if (selectedAnswers.includes(index)) {
+    selectedAnswers = selectedAnswers.filter(i => i !== index);
+    div.style.backgroundColor = '';
+  } else {
+    selectedAnswers.push(index);
+    div.style.backgroundColor = '#bbdefb';
+  }
+}
+
+function validateAnswer() {
+  const q = questions[currentQuestionIndex];
+  document.getElementById('validate-btn').disabled = true;
+  const optionsDiv = document.getElementById('options');
+  const divs = optionsDiv.querySelectorAll('.option');
+  let correctSet = new Set(q.answers);
+  let isCorrect = true;
+  divs.forEach((div, i) => {
+    if (correctSet.has(i)) div.classList.add('correct');
+    if (selectedAnswers.includes(i) && !correctSet.has(i)) div.classList.add('incorrect');
+    if (selectedAnswers.includes(i) !== correctSet.has(i)) isCorrect = false;
+  });
+  if (isCorrect) score++;
+  setTimeout(() => {
+    currentQuestionIndex++;
+    if (currentQuestionIndex < quizLength) {
       showQuestion();
+    } else {
+      showResult();
     }
+  }, 1500);
+}
 
-    function showQuestion() {
-      const q = selected[current];
-      feedbackDiv.textContent = "";
-      waitingNext = false;
-      nextBtn.textContent = "Valider";
-      progressDiv.textContent = `Question ${current + 1} / ${selected.length}`;
-      quizDiv.innerHTML = `
-        <div class="question">
-          <h3>${current + 1}. ${q.q}</h3>
-          ${q.options.map((opt, i) => `
-            <label class="option">
-              <input type="checkbox" name="opt" value="${i}">
-              ${opt}
-            </label>`).join('')}
-          <p style="font-style:italic; color:#666;">(Tu peux cocher plusieurs réponses)</p>
-        </div>
-      `;
-    }
+function stopQuiz() {
+  showResult();
+}
 
-    nextBtn.addEventListener("click", () => {
-      if (waitingNext) {
-        current++;
-        if (current < selected.length) showQuestion();
-        else showScore();
-        return;
-      }
+function showResult() {
+  document.getElementById('quiz-container').style.display = 'none';
+  document.getElementById('result-container').style.display = 'block';
+  const resultText = `Score : ${score} / ${quizLength}`;
+  const success = score >= passingScore;
+  document.getElementById('score-text').textContent = resultText + (success ? " ✅ Réussi !" : " ❌ Échoué.");
+}
 
-      const chosen = Array.from(document.querySelectorAll('input[name="opt"]:checked')).map(c => parseInt(c.value));
-      if (chosen.length === 0) return alert("Choisis au moins une réponse !");
+function restartQuiz() {
+  document.getElementById('result-container').style.display = 'none';
+  startQuiz(categoryFile, quizLength, passingScore, categoryTitle);
+}
 
-      const q = selected[current];
-      const correctAnswers = q.answers.slice().sort();
-      const isCorrect = arraysEqual(chosen.sort(), correctAnswers);
-
-      const optionLabels = document.querySelectorAll(".option");
-      optionLabels.forEach((label, i) => {
-        label.classList.remove("correct", "incorrect");
-        const input = label.querySelector("input");
-        input.disabled = true;
-        if (correctAnswers.includes(i)) label.classList.add("correct");
-        else if (chosen.includes(i)) label.classList.add("incorrect");
-      });
-
-      if (isCorrect) {
-        score++;
-        feedbackDiv.style.color = "green";
-        feedbackDiv.textContent = "✅ Bonne réponse !";
-      } else {
-        feedbackDiv.style.color = "red";
-        const bonnesReponses = correctAnswers.map(i => q.options[i]).join(", ");
-        feedbackDiv.textContent = "❌ Mauvaise réponse. Les bonnes réponses étaient : " + bonnesReponses;
-      }
-
-      waitingNext = true;
-      nextBtn.textContent = current + 1 === selected.length ? "Afficher le score" : "Question suivante";
-    });
-
-    stopBtn.addEventListener("click", () => {
-      if (confirm("Arrêter le quiz ? Le score sera affiché.")) showScore();
-    });
-
-    function arraysEqual(a, b) {
-      return a.length === b.length && a.every((v, i) => v === b[i]);
-    }
-
-    function showScore() {
-      quizDiv.innerHTML = "";
-      feedbackDiv.textContent = "";
-      controlsDiv.style.display = "none";
-      progressDiv.style.display = "none";
-
-      let message = `✅ Score final : ${score} / ${current}`;
-      if (score >= SCORE_REQUIS) {
-        message += "<br><span style='color:green;'>🎉 Félicitations, tu as réussi l'exercice !</span>";
-      } else {
-        message += "<br><span style='color:red;'>❌ Exercice non validé — essaie encore !</span>";
-      }
-
-      scoreDiv.innerHTML = message + "<br><br><button id='restart'>Recommencer</button>";
-      document.getElementById("restart").addEventListener("click", startQuiz);
-    }
-  </script>
+function goHome() {
+  document.getElementById('result-container').style.display = 'none';
+  document.getElementById('quiz-container').style.display = 'none';
+  document.getElementById('start-container').style.display = 'block';
+}
+</script>
 </body>
 </html>
