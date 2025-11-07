@@ -5,197 +5,254 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quiz d'entraînement Certiphyto</title>
 <style>
-body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #d4f1e5, #b3e5fc);
-  color: #333;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-.container {
-  max-width: 800px;
-  margin: 50px auto;
-  background: white;
-  border-radius: 15px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  padding: 20px 40px;
-}
-button {
-  display: block;
-  width: 100%;
-  margin: 10px 0;
-  padding: 12px;
-  font-size: 16px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: transform 0.2s, background 0.3s;
-  color: white;
-}
-button:hover {
-  transform: scale(1.05);
-}
-button.green {background: #43a047;}
-button.green:hover {background: #66bb6a;}
-button.blue {background: #1e88e5;}
-button.blue:hover {background: #42a5f5;}
-button.purple {background: #8e24aa;}
-button.purple:hover {background: #ab47bc;}
-#quiz-container {display: none;}
-#result-container {display: none;}
-#logo {width: 120px; margin: 20px auto; display: block;}
-.option {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 10px;
-  margin: 8px 0;
-  cursor: pointer;
-  transition: background 0.3s;
-}
-.option.correct {background-color: #c8e6c9;}
-.option.incorrect {background-color: #ffcdd2;}
-.hidden {display: none;}
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f9;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #005a2b;
+    color: white;
+    padding: 15px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  header img {
+    height: 60px;
+  }
+  h1 {
+    margin: 10px 0;
+  }
+  .category-btn {
+    display: block;
+    margin: 15px auto;
+    padding: 15px 25px;
+    width: 320px;
+    font-size: 16px;
+    background: #007a3d;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .category-btn:hover {
+    background: #00a650;
+  }
+  #quiz-container {
+    display: none;
+    margin-top: 20px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .question {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .options {
+    text-align: left;
+  }
+  .option {
+    background: #fff;
+    border: 2px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 8px 0;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+  .option:hover {
+    background: #f0f0f0;
+  }
+  .option.correct {
+    background-color: #c8f7c5;
+    border-color: #2ecc71;
+  }
+  .option.incorrect {
+    background-color: #f7c5c5;
+    border-color: #e74c3c;
+  }
+  .hidden { display: none; }
+  button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  #validate-btn {
+    background-color: #007a3d;
+    color: white;
+  }
+  #validate-btn:hover {
+    background-color: #009e4d;
+  }
+  #stop-btn {
+    background-color: #e74c3c;
+    color: white;
+  }
+  #progress {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  #result {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  #feedback {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
 </style>
 </head>
 <body>
-<div class="container" id="start-container">
-  <img src="logo.png" id="logo" alt="Logo">
+<header>
+  <img src="logo.png" alt="Logo">
   <h1>Quiz d'entraînement Certiphyto</h1>
-  <p>Choisissez votre catégorie :</p>
-  <button class="green" onclick="startQuiz('questions-densa-ea.json',30,15,'DENSA-EA - Décideur en entreprise non soumise à agrément - Exploitation agricole')">DENSA-EA<br><small>Décideur en entreprise non soumise à agrément - Exploitation agricole</small></button>
-  <button class="green" onclick="startQuiz('questions-densa-col.json',30,15,'DENSA-COL - Décideur en entreprise non soumise à agrément - Collectivité')">DENSA-COL<br><small>Décideur en entreprise non soumise à agrément - Collectivité</small></button>
-  <button class="blue" onclick="startQuiz('questions-desa.json',30,20,'DESA - Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier')">DESA<br><small>Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier</small></button>
-  <button class="purple" onclick="startQuiz('questions-operateur-ea.json',20,12,'Opérateur-EA - Exploitation agricole')">Opérateur-EA<br><small>Opérateur - Exploitation agricole</small></button>
-  <button class="purple" onclick="startQuiz('questions-operateur-col.json',20,12,'Opérateur-COL - Collectivité')">Opérateur-COL<br><small>Opérateur - Collectivité</small></button>
+</header>
+
+<div id="home">
+  <h2>Choisissez votre catégorie :</h2>
+  <button class="category-btn" data-file="questions-densa-ea.json" data-title="Décideur en entreprise non soumise à agrément - Exploitation agricole">DENSA<br><small>Décideur en entreprise non soumise à agrément - Exploitation agricole</small></button>
+  <button class="category-btn" data-file="questions-densa-col.json" data-title="Décideur en entreprise non soumise à agrément - Collectivité">DENSA<br><small>Décideur en entreprise non soumise à agrément - Collectivité</small></button>
+  <button class="category-btn" data-file="questions-desa.json" data-title="Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier">DESA<br><small>Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier</small></button>
+  <button class="category-btn" data-file="questions-operateur-ea.json" data-title="Opérateur - Exploitation agricole">OPÉRATEUR<br><small>Exploitation agricole</small></button>
+  <button class="category-btn" data-file="questions-operateur-col.json" data-title="Opérateur - Collectivité">OPÉRATEUR<br><small>Collectivité</small></button>
 </div>
 
-<div class="container" id="quiz-container">
+<div id="quiz-container">
   <h2 id="category-title"></h2>
-  <p id="question-number"></p>
-  <p id="question-text"></p>
-  <div id="options"></div>
-  <button id="validate-btn" onclick="validateAnswer()">Valider</button>
-  <button onclick="stopQuiz()">Arrêter le quiz</button>
-</div>
-
-<div class="container" id="result-container">
-  <h2>Résultat</h2>
-  <p id="score-text"></p>
-  <button onclick="restartQuiz()">Recommencer</button>
-  <button onclick="goHome()">Accueil</button>
+  <div id="progress"></div>
+  <div id="question-container"></div>
+  <div id="feedback"></div>
+  <button id="validate-btn">Valider</button>
+  <button id="stop-btn">Arrêter le quiz</button>
+  <div id="result"></div>
 </div>
 
 <script>
 let questions = [];
-let currentQuestionIndex = 0;
+let currentIndex = 0;
 let score = 0;
-let selectedAnswers = [];
-let quizLength = 30;
-let passingScore = 15;
-let categoryTitle = "";
-let categoryFile = "";
+let category = "";
+let totalQuestions = 30;
+let minScore = 15;
 
-async function startQuiz(file, length, pass, title) {
-  quizLength = length;
-  passingScore = pass;
-  categoryTitle = title;
-  categoryFile = file;
-  document.getElementById('category-title').textContent = title;
-  document.getElementById('start-container').style.display = 'none';
-  document.getElementById('quiz-container').style.display = 'block';
+document.querySelectorAll(".category-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const file = btn.dataset.file;
+    category = btn.dataset.title;
+    document.getElementById("category-title").textContent = category;
+    document.getElementById("home").style.display = "none";
+    document.getElementById("quiz-container").style.display = "block";
+    loadQuestions(file);
+  });
+});
 
+async function loadQuestions(file) {
   try {
-    const response = await fetch(`${file}?v=${Date.now()}`);
+    const response = await fetch(file + "?v=" + Date.now()); // anti-cache
     questions = await response.json();
-    shuffle(questions);
-    questions = questions.slice(0, quizLength);
-    currentQuestionIndex = 0;
+
+    if (file.includes("operateur")) {
+      totalQuestions = 20;
+      minScore = 12;
+    } else if (file.includes("desa")) {
+      totalQuestions = 30;
+      minScore = 20;
+    } else {
+      totalQuestions = 30;
+      minScore = 15;
+    }
+
+    questions = questions.sort(() => 0.5 - Math.random()).slice(0, totalQuestions);
+    currentIndex = 0;
     score = 0;
     showQuestion();
-  } catch (e) {
-    alert("Erreur lors du chargement du quiz.");
-  }
-}
-
-function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
+  } catch (error) {
+    alert("Erreur de chargement des questions : " + error);
   }
 }
 
 function showQuestion() {
-  const q = questions[currentQuestionIndex];
-  document.getElementById('question-number').textContent = `Question ${currentQuestionIndex + 1} sur ${quizLength}`;
-  document.getElementById('question-text').textContent = q.q;
-  const optionsDiv = document.getElementById('options');
-  optionsDiv.innerHTML = "";
-  selectedAnswers = [];
+  const q = questions[currentIndex];
+  document.getElementById("progress").textContent = `Question ${currentIndex + 1} / ${totalQuestions}`;
+  const container = document.getElementById("question-container");
+  container.innerHTML = `<div class='question'>${q.q}</div>`;
+  const opts = document.createElement("div");
+  opts.classList.add("options");
   q.options.forEach((opt, i) => {
-    const div = document.createElement('div');
+    const div = document.createElement("div");
+    div.classList.add("option");
     div.textContent = opt;
-    div.classList.add('option');
-    div.onclick = () => toggleSelect(div, i);
-    optionsDiv.appendChild(div);
+    div.addEventListener("click", () => div.classList.toggle("selected"));
+    opts.appendChild(div);
   });
-  document.getElementById('validate-btn').disabled = false;
+  container.appendChild(opts);
+  document.getElementById("feedback").textContent = "";
 }
 
-function toggleSelect(div, index) {
-  if (selectedAnswers.includes(index)) {
-    selectedAnswers = selectedAnswers.filter(i => i !== index);
-    div.style.backgroundColor = '';
-  } else {
-    selectedAnswers.push(index);
-    div.style.backgroundColor = '#bbdefb';
-  }
-}
+document.getElementById("validate-btn").addEventListener("click", () => {
+  const selected = Array.from(document.querySelectorAll(".option.selected"));
+  if (selected.length === 0) return alert("Veuillez sélectionner au moins une réponse.");
 
-function validateAnswer() {
-  const q = questions[currentQuestionIndex];
-  document.getElementById('validate-btn').disabled = true;
-  const optionsDiv = document.getElementById('options');
-  const divs = optionsDiv.querySelectorAll('.option');
-  let correctSet = new Set(q.answers);
-  let isCorrect = true;
-  divs.forEach((div, i) => {
-    if (correctSet.has(i)) div.classList.add('correct');
-    if (selectedAnswers.includes(i) && !correctSet.has(i)) div.classList.add('incorrect');
-    if (selectedAnswers.includes(i) !== correctSet.has(i)) isCorrect = false;
-  });
-  if (isCorrect) score++;
-  setTimeout(() => {
-    currentQuestionIndex++;
-    if (currentQuestionIndex < quizLength) {
-      showQuestion();
-    } else {
-      showResult();
+  const q = questions[currentIndex];
+  const correctIndexes = q.answers;
+  let correct = true;
+
+  document.querySelectorAll(".option").forEach((opt, i) => {
+    if (correctIndexes.includes(i)) {
+      opt.classList.add("correct");
+    } else if (opt.classList.contains("selected")) {
+      opt.classList.add("incorrect");
+      correct = false;
     }
-  }, 1500);
-}
+    opt.style.pointerEvents = "none";
+  });
 
-function stopQuiz() {
-  showResult();
-}
+  if (correct) {
+    score++;
+    document.getElementById("feedback").textContent = "✅ Bonne réponse !";
+    document.getElementById("feedback").style.color = "#2ecc71";
+  } else {
+    document.getElementById("feedback").textContent = "❌ Mauvaise réponse.";
+    document.getElementById("feedback").style.color = "#e74c3c";
+  }
+
+  setTimeout(() => {
+    currentIndex++;
+    if (currentIndex < totalQuestions) showQuestion();
+    else showResult();
+  }, 1200);
+});
+
+document.getElementById("stop-btn").addEventListener("click", showResult);
 
 function showResult() {
-  document.getElementById('quiz-container').style.display = 'none';
-  document.getElementById('result-container').style.display = 'block';
-  const resultText = `Score : ${score} / ${quizLength}`;
-  const success = score >= passingScore;
-  document.getElementById('score-text').textContent = resultText + (success ? " ✅ Réussi !" : " ❌ Échoué.");
-}
+  document.getElementById("question-container").innerHTML = "";
+  document.getElementById("validate-btn").style.display = "none";
+  document.getElementById("stop-btn").style.display = "none";
+  document.getElementById("feedback").textContent = "";
 
-function restartQuiz() {
-  document.getElementById('result-container').style.display = 'none';
-  startQuiz(categoryFile, quizLength, passingScore, categoryTitle);
-}
+  const success = score >= minScore;
+  const resultText = `Score : ${score} / ${totalQuestions}<br>${success ? "🎉 Réussi !" : "❌ Non validé"}`;
+  document.getElementById("result").innerHTML = resultText;
 
-function goHome() {
-  document.getElementById('result-container').style.display = 'none';
-  document.getElementById('quiz-container').style.display = 'none';
-  document.getElementById('start-container').style.display = 'block';
+  const restartBtn = document.createElement("button");
+  restartBtn.textContent = "Recommencer";
+  restartBtn.style.backgroundColor = "#007a3d";
+  restartBtn.style.color = "white";
+  restartBtn.onclick = () => location.reload();
+  document.getElementById("result").appendChild(document.createElement("br"));
+  document.getElementById("result").appendChild(restartBtn);
 }
 </script>
 </body>
