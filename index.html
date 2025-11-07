@@ -39,10 +39,11 @@
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    transition: background 0.3s;
+    transition: background 0.3s, transform 0.2s;
   }
   .category-btn:hover {
     background: #00a650;
+    transform: scale(1.03);
   }
   #quiz-container {
     display: none;
@@ -69,6 +70,10 @@
   }
   .option:hover {
     background: #f0f0f0;
+  }
+  .option.selected {
+    background-color: #cce5ff;
+    border-color: #007bff;
   }
   .option.correct {
     background-color: #c8f7c5;
@@ -159,7 +164,7 @@ document.querySelectorAll(".category-btn").forEach(btn => {
 
 async function loadQuestions(file) {
   try {
-    const response = await fetch(file + "?v=" + Date.now()); // anti-cache
+    const response = await fetch(file + "?v=" + Date.now());
     questions = await response.json();
 
     if (file.includes("operateur")) {
