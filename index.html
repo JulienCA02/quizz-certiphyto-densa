@@ -312,36 +312,30 @@
       document.getElementById("result").textContent = "";
     }
 
-document.getElementById("validate-btn").addEventListener("click", () => {
-  const q = currentQuiz[currentIndex];
-  const selected = Array.from(document.querySelectorAll(".option.selected")).map(o =>
-    [...o.parentNode.children].indexOf(o)
-  );
-  const correct = q.answers;
+    // ✅ Bloc corrigé avec "Bonne / Mauvaise réponse"
+    document.getElementById("validate-btn").addEventListener("click", () => {
+      const q = currentQuiz[currentIndex];
+      const selected = Array.from(document.querySelectorAll(".option.selected")).map(o =>
+        [...o.parentNode.children].indexOf(o)
+      );
+      const correct = q.answers;
 
-  const options = document.querySelectorAll(".option");
-  options.forEach((opt, i) => {
-    if (correct.includes(i)) opt.classList.add("correct");
-    else if (selected.includes(i)) opt.classList.add("incorrect");
-    opt.onclick = null;
-  });
+      const options = document.querySelectorAll(".option");
+      options.forEach((opt, i) => {
+        if (correct.includes(i)) opt.classList.add("correct");
+        else if (selected.includes(i)) opt.classList.add("incorrect");
+        opt.onclick = null;
+      });
 
-  const resultDiv = document.getElementById("result");
-  const isGood = arraysEqual(selected.sort(), correct.sort());
+      const resultDiv = document.getElementById("result");
+      const isGood = arraysEqual(selected.sort(), correct.sort());
 
-  if (isGood) {
-    score++;
-    resultDiv.innerHTML = `<p style="color:green;">✅ Bonne réponse</p>`;
-  } else {
-    resultDiv.innerHTML = `<p style="color:red;">❌ Mauvaise réponse</p>`;
-  }
-
-  document.getElementById("validate-btn").style.display = "none";
-  document.getElementById("next-btn").style.display = "inline-block";
-});
-
-
-      if (arraysEqual(selected.sort(), correct.sort())) score++;
+      if (isGood) {
+        score++;
+        resultDiv.innerHTML = `<p style="color:green;">✅ Bonne réponse</p>`;
+      } else {
+        resultDiv.innerHTML = `<p style="color:red;">❌ Mauvaise réponse</p>`;
+      }
 
       document.getElementById("validate-btn").style.display = "none";
       document.getElementById("next-btn").style.display = "inline-block";
