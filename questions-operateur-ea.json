@@ -385,9 +385,8 @@
   },
   {
     "id": 31,
-    "q": "Concernant le transport des matières dangereuses, la classe 6.1 dans laquelle de nombreux produits phytosanitaires sont rangées correspond",
+    "q": "Concernant le transport des matières dangereuses, la classe 6.1 dans laquelle de nombreux produits phytosanitaires sont rangées correspond aux :",
     "options": [
-      "aux :",
       "Matières radioactives",
       "Matières toxiques",
       "Matières explosives"
@@ -677,8 +676,8 @@
     "q": "En cas d'intoxication aiguë, quel numéro doit-on composer ?",
     "options": [
       "15 ou 112",
-	  "17",
-	  "118218"
+      "17",
+      "118218"
     ],
     "answers": [
       0
@@ -689,11 +688,12 @@
     "q": "En cas d'intoxication aiguë, quel numéro doit-on composer ?",
     "options": [
       "15 ou 114",
-	  "17",
+      "17",
       "15 ou 112"
     ],
     "answers": [
-      0,2
+      0,
+      2
     ]
   },
   {
@@ -772,9 +772,8 @@
   },
   {
     "id": 62,
-    "q": "Je traite avec un produit phytopharmaceutique classé H373, je peux le mélanger avec",
+    "q": "Je traite avec un produit phytopharmaceutique classé H373, je peux le mélanger avec un produit phytopharmaceutique classé H360D",
     "options": [
-      "un produit phytopharmaceutique classé H360D",
       "un produit phytopharmaceutique classé H351",
       "un produit phytopharmaceutique classé H411",
       "Aucun  produits autres phytopharmaceutiques"
@@ -1186,9 +1185,8 @@
   },
   {
     "id": 95,
-    "q": "Le pictogramme \"point d'exclamation\"  peut signifier :",
+    "q": "Le pictogramme \"point d'exclamation\"  peut signifier : J'irrite la peau, les yeux et/ou les voies respiratoires",
     "options": [
-      "J'irrite la peau, les yeux et/ou les voies respiratoires",
       "Je suis sous pression",
       "Je provoque le cancer"
     ],
@@ -1271,9 +1269,8 @@
   },
   {
     "id": 102,
-    "q": "Le transport de matières dangereuses est soumis à une réglementation particulière (ADR). Une dispense totale est possible pour le transport des",
+    "q": "Le transport de matières dangereuses est soumis à une réglementation particulière (ADR). Une dispense totale est possible pour le transport des produits phytopharmaceutiques  avec un véhicule routier :",
     "options": [
-      "produits phytopharmaceutiques  avec un véhicule routier :",
       "Jusqu'à 50 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
       "Jusqu'à 100 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
       "Jusqu'à 1000 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
@@ -1486,9 +1483,8 @@
   },
   {
     "id": 119,
-    "q": "Les produits phytopharmaceutiques dont les emballages sont défectueux doivent être :",
+    "q": "Les produits phytopharmaceutiques dont les emballages sont défectueux doivent être : Transvasés dans des emballages récupérés, préalablement rincés",
     "options": [
-      "Transvasés dans des emballages récupérés, préalablement rincés",
       "Stockés en l'état en attendant la prochaine collecte",
       "Remis en l’état dans des emballages plus grands"
     ],
@@ -1522,9 +1518,8 @@
   },
   {
     "id": 122,
-    "q": "L'hygrométrie est un facteur essentiel dans la réussite des traitements phytosanitaires et pour limiter les pollutions diffuses. Quelles sont les 2",
+    "q": "L'hygrométrie est un facteur essentiel dans la réussite des traitements phytosanitaires et pour limiter les pollutions diffuses. Quelles sont les 2 propositions justes ?",
     "options": [
-      "propositions justes ?",
       "Une faible hygrométrie (<40%)  favorise la pénétration du produit sur des fibres desséchées",
       "Une faible hygrométrie favorise la volatilisation des gouttelettes",
       "Une forte hygrométrie (>60%) favorise la pénétration des produits sur des fibres détendues",
@@ -1537,9 +1532,8 @@
   },
   {
     "id": 123,
-    "q": "Lors de la phase de remplissage du pulvérisateur, la réglementation impose de protéger le réseau d'eau potable, parmi ces propositions,",
+    "q": "Lors de la phase de remplissage du pulvérisateur, la réglementation impose de protéger le réseau d'eau potable, parmi ces propositions lesquelles peuvent être efficaces ?",
     "options": [
-      "lesquelles peuvent être efficaces ?",
       "Une cuve tampon",
       "Un volucompteur",
       "Un clapet anti-retour sur l'arrivée d'eau"
@@ -1551,9 +1545,8 @@
   },
   {
     "id": 124,
-    "q": "Lors de la préparation du mélange, un bidon est vide :",
+    "q": "Lors de la préparation du mélange, un bidon est vide : Je le rince immédiatement trois fois, et verse l’eau de rinçage dans la cuve du pulvérisateur",
     "options": [
-      "Je le rince immédiatement trois fois, et verse l’eau de rinçage dans la cuve du pulvérisateur",
       "Je le mets de côté dans le local de stockage sans rinçage, pour économiser l’eau",
       "Je le dépose, après rinçage, dans un sac de collecte ADIVALOR au hangar"
     ],
@@ -1673,9 +1666,8 @@
   },
   {
     "id": 134,
-    "q": "L'utilisation du phosphate ferrique comme anti-limace classé sur la liste des produits de Biocontrôle est une alternative efficace aux anti-limaces",
+    "q": "L'utilisation du phosphate ferrique comme anti-limace classé sur la liste des produits de Biocontrôle est une alternative efficace aux anti-limaces chimiques. Quel est son mode d'action ?",
     "options": [
-      "chimiques. Quel est son mode d'action ?",
       "Il entraîne une déshydratation mortelle des limaces",
       "Il entraîne l'arrêt de l'alimentation puis la mort des limaces",
       "Son odeur repousse les attaques de limaces"
@@ -1853,12 +1845,12 @@
     "q": "Parmi ces propositions, quels sont les numéros à composer en cas d'urgence ?",
     "options": [
       "0800 887 887",
-	  "112",
-	  "17"
+      "112",
+      "17"
     ],
     "answers": [
-	1
-	]
+      1
+    ]
   },
   {
     "id": 149,
@@ -2013,9 +2005,8 @@
   },
   {
     "id": 161,
-    "q": "Parmi les rubriques suivantes, lesquelles trouve t-on dans une fiche de données de sécurité ?",
+    "q": "Parmi les rubriques suivantes, lesquelles trouve t-on dans une fiche de données de sécurité ? rubrique \"Impact sur la vie du sol\" (rubrique 17)",
     "options": [
-      "rubrique \"Impact sur la vie du sol\" (rubrique 17)",
       "Rubrique \"premiers secours\" (rubrique 4)",
       "Rubrique \"protection individuelle\" (rubrique 8)"
     ],
@@ -2197,9 +2188,8 @@
   },
   {
     "id": 176,
-    "q": "Pour pouvoir être intégré dans une filière d’élimination d’EVPP (emballages vides de produits phytopharmaceutiques), un emballage doit être :",
+    "q": "Pour pouvoir être intégré dans une filière d’élimination d’EVPP (emballages vides de produits phytopharmaceutiques), un emballage doit être : Vidé de son contenu,",
     "options": [
-      "Vidé de son contenu,",
       "Rincé au minimum 3 fois et égoutté,",
       "Rempli d’eau claire"
     ],
@@ -2672,9 +2662,8 @@
   },
   {
     "id": 215,
-    "q": "Quelle quantité maximale de produits phytopharmaceutiques peut on transporter avec un véhicule de tourisme sans être soumis à la",
+    "q": "Quelle quantité maximale de produits phytopharmaceutiques peut on transporter avec un véhicule de tourisme sans être soumis à la réglementation sur le transport des matières dangereuses:",
     "options": [
-      "réglementation sur le transport des matières dangereuses:",
       "50 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
       "500 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
       "1000 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
@@ -2685,9 +2674,8 @@
   },
   {
     "id": 216,
-    "q": "Quelle quantité maximale de produits phytopharmaceutiques peut-on transporter à l'aide d'un tracteur agricole équipé d'une remorque plateau ?",
+    "q": "Quelle quantité maximale de produits phytopharmaceutiques peut-on transporter à l'aide d'un tracteur agricole équipé d'une remorque plateau ? Aucune, c'est interdit",
     "options": [
-      "Aucune, c'est interdit",
       "50 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
       "1 t si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
     ],
@@ -2864,9 +2852,8 @@
   },
   {
     "id": 230,
-    "q": "Quelles sont les méthodes possibles en cas de buse bouchée lors d'un traitement ?",
+    "q": "Quelles sont les méthodes possibles en cas de buse bouchée lors d'un traitement ? S'arrêter, descendre du tracteur et démonter la buse pour souffler à la bouche dedans",
     "options": [
-      "S'arrêter, descendre du tracteur et démonter la buse pour souffler à la bouche dedans",
       "S'arrêter, descendre du tracteur sans ses EPI et remplacer la buse",
       "Avancer de 5 m, descendre du tracteur avec ses EPI et brosser la buse avec une brosse réservée à cet usage",
       "Avancer de 5 m, descendre du tracteur avec ses EPI et remplacer la buse"
@@ -3319,9 +3306,8 @@
   },
   {
     "id": 266,
-    "q": "Sont considérés comme effluents phytopharmaceutiques :",
+    "q": "Sont considérés comme effluents phytopharmaceutiques : Les eaux de lavage du matériel de pulvérisation, dont le rinçage extérieur",
     "options": [
-      "Les eaux de lavage du matériel de pulvérisation, dont le rinçage extérieur",
       "Un EVPP",
       "Les bouillies phytopharmaceutiques non utilisables"
     ],
@@ -3369,9 +3355,8 @@
   },
   {
     "id": 270,
-    "q": "Sur l'emballage d'un produit phytopharmaceutique, vous voyez un pictogramme représentant un arbre sans feuille et un poisson mort, qu'est ce",
+    "q": "Sur l'emballage d'un produit phytopharmaceutique, vous voyez un pictogramme représentant un arbre sans feuille et un poisson mort, qu'est ce que cela indique ?",
     "options": [
-      "que cela indique ?",
       "Le produit est dangereux pour l'homme",
       "Le produit est dangereux pour l'environnement",
       "Le produit est recommandé pour la destruction des Nuisibles"
@@ -3669,9 +3654,8 @@
   },
   {
     "id": 294,
-    "q": "Votre employeur vous demande de réaliser un mélange autorisé entre un fongicide et un régulateur de croissance. Quelles questions devez-vous",
+    "q": "Votre employeur vous demande de réaliser un mélange autorisé entre un fongicide et un régulateur de croissance. Quelles questions devez-vous vous poser afin de savoir si ce mélange est possible ?",
     "options": [
-      "vous poser afin de savoir si ce mélange est possible ?",
       "Avez-vous consulté la météo ?",
       "Connaissez-vous l'ordre d'incorporation des produits en mélange ?",
       "Avez-vous vérifié que le seuil de nuisibilité de l'insecte est atteint ?"
@@ -3694,9 +3678,8 @@
   },
   {
     "id": 296,
-    "q": "Vous avez renversé accidentellement un produit phytopharmaceutique liquide dans un local à sol cimenté, quelle intervention proposez-vous ?",
+    "q": "Vous avez renversé accidentellement un produit phytopharmaceutique liquide dans un local à sol cimenté, quelle intervention proposez-vous ? Répandre un produit d’inertage au sol (sciure, litière, kit d’absorption …)",
     "options": [
-      "Répandre un produit d’inertage au sol (sciure, litière, kit d’absorption …)",
       "Laver à grande eau",
       "Éponger avec une serpillière"
     ],
@@ -3756,9 +3739,8 @@
   },
   {
     "id": 301,
-    "q": "Vous devez réaliser un mélange de deux produits phytopharmaceutiques, quelles questions devez-vous vous poser afin de savoir si ce mélange est autorisé ?",
+    "q": "Vous devez réaliser un mélange de deux produits phytopharmaceutiques, quelles questions devez-vous vous poser afin de savoir si ce mélange est autorisé ? Est-ce que l'un des produits est classé Cancérigène, Mutagène ou Reprotoxique (CMR) ?",
     "options": [
-      "Est-ce que l'un des produits est classé Cancérigène, Mutagène ou Reprotoxique (CMR) ?",
       "Est-ce que les deux produits ont le même mode d'action ?",
       "Est-ce que l'un des produits a une Zone Non Traitée (ZNT) de 50 mètres ?"
     ],
@@ -3768,9 +3750,8 @@
   },
   {
     "id": 302,
-    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ?",
+    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ? Rien, demain ça ira mieux",
     "options": [
-      "Rien, demain ça ira mieux",
       "J'appelle le numéro vert de Phyt'attitude         0 800 887 887",
       "J'appelle le centre-antipoison"
     ],
@@ -3781,9 +3762,8 @@
   },
   {
     "id": 303,
-    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ?",
+    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ? Rien, demain ça ira mieux",
     "options": [
-      "Rien, demain ça ira mieux",
       "J'appelle mon médecin traitant",
       "Je préviens le  service de Santé au Travail"
     ],
@@ -3833,6 +3813,4 @@
       0
     ]
   }
-
 ]
-
