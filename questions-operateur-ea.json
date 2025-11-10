@@ -1564,9 +1564,8 @@
   },
   {
     "id": 125,
-    "q": "Lors du renouvellement du stock d'Equipement de Protection Individuelle, en quelle matière doivent être les gants de protection contre les",
+    "q": "Lors du renouvellement du stock d'Equipement de Protection Individuelle, en quelle matière doivent être les gants de protection contre les produits chimiques ?",
     "options": [
-      "produits chimiques ?",
       "En latex",
       "En vinyle",
       "En nitrile ou néoprène"
@@ -3836,3 +3835,4 @@
   }
 
 ]
+
