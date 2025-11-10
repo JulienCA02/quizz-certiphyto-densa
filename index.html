@@ -48,15 +48,27 @@
 
     .category-btn {
       display: block;
-      margin: 10px auto;
-      padding: 14px 20px;
-      font-size: 1.1rem;
+      margin: 14px auto;
+      padding: 16px 20px;
       border-radius: 12px;
-      border: none;
+      font-size: 1.1rem;
       width: 90%;
-      max-width: 450px;
+      max-width: 550px;
       cursor: pointer;
       transition: 0.2s;
+      border: none;
+      text-align: center;
+    }
+
+    .category-btn .title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .category-btn .count {
+      font-size: 0.9rem;
+      color: #e7f1ff;
+      opacity: 0.95;
     }
 
     .category-btn.ready {
@@ -73,6 +85,11 @@
       color: #888;
       border: 1px solid #ccc;
       cursor: not-allowed;
+    }
+
+    .category-btn.pending .count {
+      color: #999;
+      font-style: italic;
     }
 
     #quiz-container {
@@ -191,11 +208,26 @@
 
   <script>
     const quizFiles = {
-      "DENSA": { file: "questions-densa-ea.json", title: "Décideur en entreprise non soumise à agrément - Exploitation agricole" },
-      "DENSA COL": { file: "questions-densa-col.json", title: "Décideur en entreprise non soumise à agrément - Collectivité" },
-      "DESA": { file: "questions-desa.json", title: "Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier" },
-      "OPÉRATEUR": { file: "questions-operateur-ea.json", title: "Opérateur - Exploitation agricole" },
-      "OPÉRATEUR COL": { file: "questions-operateur-col.json", title: "Opérateur - Collectivité" }
+      "DENSA": { 
+        file: "questions-densa-ea.json", 
+        title: "Décideur en entreprise non soumise à agrément - Exploitation agricole" 
+      },
+      "DENSA COL": { 
+        file: "questions-densa-col.json", 
+        title: "Décideur en entreprise non soumise à agrément - Collectivité" 
+      },
+      "DESA": { 
+        file: "questions-desa.json", 
+        title: "Décideur en entreprise soumise à agrément - Prestation de services du secteur agricole et forestier" 
+      },
+      "OPÉRATEUR": { 
+        file: "questions-operateur-ea.json", 
+        title: "Opérateur - Exploitation agricole" 
+      },
+      "OPÉRATEUR COL": { 
+        file: "questions-operateur-col.json", 
+        title: "Opérateur - Collectivité" 
+      }
     };
 
     let currentQuiz = [];
@@ -210,25 +242,31 @@
       container.innerHTML = "";
 
       for (const [key, data] of Object.entries(quizFiles)) {
+        const btn = document.createElement("button");
+        btn.className = "category-btn";
+
         try {
           const res = await fetch(data.file + "?v=" + Date.now());
           if (!res.ok) throw new Error();
           const json = await res.json();
           const count = json.length;
 
-          const btn = document.createElement("button");
-          btn.textContent = `${key} (${count} questions)`;
+          btn.innerHTML = `
+            <div class="title">${data.title}</div>
+            <div class="count">${count} question${count > 1 ? "s" : ""} en stock</div>
+          `;
           btn.onclick = () => startQuiz(data.file, data.title, key);
-          btn.className = "category-btn ready";
-
-          container.appendChild(btn);
+          btn.classList.add("ready");
         } catch {
-          const btn = document.createElement("button");
-          btn.textContent = `${key} (🚧 en cours)`;
+          btn.innerHTML = `
+            <div class="title">${data.title}</div>
+            <div class="count">🚧 En cours</div>
+          `;
           btn.disabled = true;
-          btn.className = "category-btn pending";
-          container.appendChild(btn);
+          btn.classList.add("pending");
         }
+
+        container.appendChild(btn);
       }
     }
 
