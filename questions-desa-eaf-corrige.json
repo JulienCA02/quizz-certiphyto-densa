@@ -1,0 +1,6346 @@
+[
+  {
+    "id": 1,
+    "q": "Parmi ces documents quels sont ceux à présenter lors des audit pour l'agrément d'application en prestation de service :",
+    "options": [
+      "Le Kbis de l’entreprise",
+      "Les certificats des salariés",
+      "Les fiches de paie",
+      "L’organigramme"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "q": "A la fin du traitement et après avoir retiré tous vos équipements de protection, que faut-il faire impérativement?",
+    "options": [
+      "Se moucher pour décontaminer les fosses nasales",
+      "Se laver les mains et prendre une douche",
+      "Etendre la combinaison de traitement sur un cintre"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "q": "A partir de quel volume de fonds de cuve, peut-on vider ce fonds de cuve dans le tout-à-l'égout ?",
+    "options": [
+      "1 litre",
+      "2 litres",
+      "5 litres",
+      "Jamais"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "q": "A quel moment l'applicateur d'un produit phytopharmaceutique court-il un risque d'intoxication aiguë ?",
+    "options": [
+      "Uniquement lors de la préparation de la bouillie",
+      "Uniquement lors du réglage du pulvérisateur",
+      "Uniquement lors de l'application du produit",
+      "Uniquement lors du nettoyage et du rangement du matériel",
+      "Dans tous les cas"
+    ],
+    "answers": [
+      4
+    ]
+  },
+  {
+    "id": 5,
+    "q": "A quelle période doit se réaliser l'installation de diffuseurs à phéromones pour pratiquer la confusion sexuelle efficace dans la lutte contre certains ravageurs des cultures ?",
+    "options": [
+      "Juste avant l'apparition des premiers œufs sur les feuilles",
+      "Juste avant l'apparition des premières larves phytophages sur les feuilles",
+      "En lune montante"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "q": "A quel(s) moment(s) l'applicateur d'un produit phytopharmaceutique court-il un risque d'intoxication aiguë ?",
+    "options": [
+      "Uniquement lors de la préparation de la bouillie",
+      "Uniquement lors du réglage du pulvérisateur",
+      "Uniquement lors de l'application du produit",
+      "Uniquement lors du nettoyage et du rangement du matériel",
+      "Dans tous les cas"
+    ],
+    "answers": [
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "q": "A quoi reconnait-on un produit cancérigène? :",
+    "options": [
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "La phrase H351",
+      "Le pictogramme \"point d'exclamation\""
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "q": "A quoi reconnait-on un produit cancérigène? :",
+    "options": [
+      "La phrase H351",
+      "La phrase EUH014",
+      "Le pictogramme  avec l'homme au \"buste éclaté\""
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 9,
+    "q": "A quoi reconnait-on un produit cancérigène? :",
+    "options": [
+      "La phrase H350",
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "Le pictogramme  \"tête de mort\""
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "q": "A quoi reconnait-on un produit mutagène? :",
+    "options": [
+      "La phrase H220",
+      "La phrase H340",
+      "Le pictogramme  avec l'homme au \"buste éclaté\""
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 11,
+    "q": "A quoi reconnait-on un produit mutagène ? :",
+    "options": [
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "La phrase H341",
+      "Le pictogramme  \"tête de mort\""
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "q": "A quoi reconnait-on un produit mutagène? :",
+    "options": [
+      "La phrase H340",
+      "La phrase H410",
+      "Le pictogramme  avec l'homme au \"buste éclaté\""
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 13,
+    "q": "A quoi reconnait-on un produit reprotoxique ? :",
+    "options": [
+      "La phrase H360",
+      "La phrase EUH032",
+      "Le pictogramme  avec l'homme au \"buste éclaté\""
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 14,
+    "q": "A quoi reconnait-on un produit reprotoxique? :",
+    "options": [
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "Le pictogramme \"point d'exclamation\"",
+      "La phrase H361"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 15,
+    "q": "A quoi reconnait-on un produit reprotoxique ? :",
+    "options": [
+      "Le pictogramme  \"tête de mort\"",
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "La phrase H361"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 16,
+    "q": "A quoi reconnait-on un produit reprotoxique? :",
+    "options": [
+      "La phrase H361",
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "La phrase H411"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "q": "A quoi reconnait-on un produit reprotoxique ? :",
+    "options": [
+      "La phrase H242",
+      "Le pictogramme  avec l'homme au \"buste éclaté\"",
+      "La phrase H360"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 18,
+    "q": "A quoi sert le faux-semis ?",
+    "options": [
+      "Réduire la pression des adventices sur la culture à venir",
+      "Mieux gérer les adventices vivaces",
+      "Mieux gérer les adventices annuelles"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 19,
+    "q": "A quoi sert le réseau Phyt'attitude ?",
+    "options": [
+      "A faire le lien entre des symptômes et l'exposition  à un produit phytosanitaire",
+      "A traiter une intoxication aux produits phytosanitaires",
+      "A identifier des situations de travail exposantes pour l'opérateur"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 20,
+    "q": "Afin de réaliser une vidange de cuve de pulvérisateur à la parcelle, il faut réaliser au préalable une dilution au",
+    "options": [
+      "1/10ème",
+      "1/100ème",
+      "1/1000ème"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "q": "Après dilution, il est autorisé d’épandre les effluents sur la parcelle à plus de :",
+    "options": [
+      "5 mètres de tout point d’eau",
+      "10 mètres de tout point d’eau",
+      "50 mètres de tout point d’eau",
+      "100 mètres de tout point d’eau"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 22,
+    "q": "Après le traitement d'une parcelle quels sont les éléments que je dois noter ?",
+    "options": [
+      "La pression des pneus du pulvérisateur",
+      "Le nom du client",
+      "La zone et la surface traitée",
+      "Les conditions climatiques particulières (pluie, vent, …)"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 23,
+    "q": "Après le traitement d'une parcelle, quels sont les éléments que je dois noter dans le registre ?",
+    "options": [
+      "La date du traitement",
+      "La marque du pulvérisateur",
+      "La dose utilisée",
+      "La zone et la surface traitée"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "q": "Après leur nettoyage, les équipements de protection individuelle non-jetables doivent être placés :",
+    "options": [
+      "Dans un local ou une armoire prévu à cet effet",
+      "Dans n’importe quel local ou armoire",
+      "Dans le local où sont stockés les produits phytopharmaceutiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 25,
+    "q": "Au cours du travail, quelle est la voie de pénétration majeure des produits dans le corps humain ?",
+    "options": [
+      "Cutanée",
+      "Respiratoire",
+      "Conjonctivale"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 26,
+    "q": "Avant d’appliquer un herbicide foliaire sur une culture, je prends en compte :",
+    "options": [
+      "Le stade des adventices",
+      "Le travail du sol lors de l'interculture",
+      "La densité de semis",
+      "La variété"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 27,
+    "q": "Avant de préparer ma bouillie :",
+    "options": [
+      "Je lis l'étiquette",
+      "Je m'informe de la contenance des bidons",
+      "Je vérifie le dosage",
+      "Je pèse les bidons",
+      "Je retire les étiquettes et les mets avec le bon de travail"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 28,
+    "q": "Avant la remise (hivernage) du pulvérisateur, je dois  :",
+    "options": [
+      "Dégonfler des pneus",
+      "Vérifier le niveau d'huile de la pompe",
+      "Nettoyer les buses",
+      "Tendre au maximum la courroie de transmission"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 29,
+    "q": "\"BSV\", c'est l'abréviation de  :",
+    "options": [
+      "Bulletin de Santé du Végétal",
+      "Bulletin de Surveillance Végétale",
+      "Bulletin du Service Végétal",
+      "Bulletin de Suivi des Végétaux"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 30,
+    "q": "Certains fongicides agissent sur les maladies cryptogamiques après avoir été absorbés et véhiculés à l’intérieur de la plante. Ce sont :",
+    "options": [
+      "Des fongicides de contact",
+      "Des fongicides pénétrants",
+      "Des fongicides systémiques"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 31,
+    "q": "Chez les lépidoptères, désignez le stade de développement le plus nuisible pour les cultures",
+    "options": [
+      "Larve",
+      "Nymphe",
+      "Adulte"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 32,
+    "q": "Cochez la proposition correcte :",
+    "options": [
+      "Un produit homologué est présumé sans risque pour la santé dans les conditions d'emploi prescrites",
+      "Un produit est plus toxique si sa dose létale est plus élevée",
+      "Un produit est plus toxique si dose létale est moins élevée"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 33,
+    "q": "Cochez la proposition correcte :",
+    "options": [
+      "L'étiquetage d'un produit répond à une réglementation stricte et comporte des données obligatoires",
+      "Lorsqu'un produit est homologué, son emploi est autorisé sans restriction",
+      "Quand on achète un produit phytopharmaceutique, il est obligatoirement accompagné de sa FDS"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 34,
+    "q": "Cochez les obligations relatives aux fiches de données de sécurité :",
+    "options": [
+      "Les FDS doivent être accessibles dans l'espace de vente",
+      "Chaque salarié applicateur doit les avoir avec lui",
+      "Si le client le demande, le distributeur doit fournir la FDS",
+      "L'applicateur a l'obligation de les fournir à ses clients 3 jours avant chaque traitement"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 35,
+    "q": "Comment agit un insecticide de contact ?",
+    "options": [
+      "Par contact avec les feuilles et la sève",
+      "Par contact avec les feuilles et les racines",
+      "Par contact avec les insectes"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 36,
+    "q": "Comment faire pour  résoudre un problème de buse obstruée ?",
+    "options": [
+      "Utiliser un fil d'acier",
+      "Utiliser un appareil adapté",
+      "Utiliser une brosse à dent usagée",
+      "Remplacer la buse obstruée par une buse en bon état"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 37,
+    "q": "Comment gérer l'incident de la buse bouchée ?",
+    "options": [
+      "Souffler dedans avec la bouche",
+      "Utiliser une bombe d'air comprimé",
+      "Avoir un jeu de buses de rechange"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 38,
+    "q": "Comment les herbicides systémiques peuvent-ils pénétrer dans l’adventice ?",
+    "options": [
+      "Uniquement par les feuilles",
+      "Uniquement par les fleurs",
+      "Uniquement par les racines",
+      "Par les feuilles et/ou les racines"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 39,
+    "q": "Comment peut-on prévenir les contaminations avec le matériel ?",
+    "options": [
+      "En entretenant régulièrement son matériel",
+      "En rinçant le circuit de traitement avant remisage",
+      "En faisant vérifier le pulvérisateur tous les 10 ans"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 40,
+    "q": "Comment peuvent être éliminés les EPI usagés ?",
+    "options": [
+      "Dans une poubelle ménagère",
+      "Dans une poubelle spécifique aux EPI",
+      "Dans le sachet destiné aux bidons  vides des Produits Phytosanitaires"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 41,
+    "q": "Comment prévenir l'apparition d'adventices résistantes au traitement herbicide ?",
+    "options": [
+      "Alterner les substances actives dans la même famille chimique",
+      "Faire varier les doses d'herbicides",
+      "Utiliser des substances actives avec des modes d'action différents",
+      "Allonger et diversifier les successions culturales"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 42,
+    "q": "Comment prévenir l'apparition de maladies cryptogamiques résistantes au traitement fongicide ?",
+    "options": [
+      "Alterner les substances actives dans la même famille chimique",
+      "Faire varier les doses d'herbicides",
+      "Utiliser des substances actives avec des modes d'action différents",
+      "Allonger et diversifier les successions culturales",
+      "Utiliser des variétés résistantes aux champignons phytopathogènes"
+    ],
+    "answers": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 43,
+    "q": "Comment prévenir l'apparition de ravageurs résistants au traitement ?",
+    "options": [
+      "Alterner les substances actives dans la même famille chimique",
+      "Faire varier les doses d'herbicides",
+      "Utiliser des substances actives avec des modes d'action différents",
+      "Allonger et diversifier les successions culturales",
+      "Utiliser des auxiliaires"
+    ],
+    "answers": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 44,
+    "q": "Comment rangez-vous un local renfermant des produits phytopharmaceutiques ?",
+    "options": [
+      "Je classe les produits par ordre alphabétique",
+      "Je sépare les produits classés H301 des autres produits phytopharmaceutiques",
+      "Je range les sacs de semences dans les étagères du bas",
+      "je sépare les PPNU et je les identifie",
+      "Je sépare les produits classés CMR des autres produits phytosanitaires"
+    ],
+    "answers": [
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 45,
+    "q": "Comment se débarrasser d'un PPNU ?",
+    "options": [
+      "Dans un point de collecte ADIVALOR",
+      "En le versant dans l'évier",
+      "En le pulvérisant à l'interculture avec une dilution au 1/10e"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 46,
+    "q": "Comment éliminer les effluents phytosanitaires selon la réglementation en vigueur ?",
+    "options": [
+      "Système de gestion des effluents par dégradation sur lit biologique",
+      "Épandage sur jachère",
+      "Déversement dans le réseau d'eaux usées",
+      "Épandage sur la dernière parcelle traitée"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 47,
+    "q": "Comment éliminer les effluents phytosanitaires selon la réglementation en vigueur ?",
+    "options": [
+      "Système de gestion des effluents par dégradation sur lit biologique",
+      "Épandage sur jachère",
+      "Stockage dans une cuve en vue d'une élimination par un organisme collecteur agréé"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 48,
+    "q": "Concernant la procédure de déshabillage, quelle est la première action à réaliser ?",
+    "options": [
+      "Se désaltérer",
+      "Se rincer la bouche",
+      "Se rincer les gants"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 49,
+    "q": "Concernant la procédure de déshabillage, quelle est la première action à réaliser ?",
+    "options": [
+      "Enlever ses bottes",
+      "Se rincer les gants",
+      "Préparer ses vêtements de travail"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 50,
+    "q": "Concernant le matériel destiné à l'application de produits phytosanitaires en prestation de service, quelles sont les bonnes réponses ?",
+    "options": [
+      "Une liste du matériel application est présente dans l’entreprise",
+      "La liste du matériel d'application doit être déclarée à la mairie",
+      "Tous les matériels doivent passer au contrôle technique"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 51,
+    "q": "Concernant les abeilles, quelles sont les affirmations exactes ?",
+    "options": [
+      "Certains insecticides peuvent être utilisés pendant la floraison mais en dehors de la présence d'abeilles",
+      "Tous les insecticides sont interdits pendant la floraison",
+      "Certains insecticides peuvent être utilisés pendant la présence des abeilles",
+      "Il est interdit de réaliser un traitement insecticide pendant la présence d'abeilles"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 52,
+    "q": "Concernant les équipements destinés à l'application de produits phytosanitaires en prestation de service, quelles sont les bonnes réponses ?",
+    "options": [
+      "Une liste du matériel application est présente dans l’entreprise",
+      "La liste du matériel d'application doit être déclarée à la mairie",
+      "Ils doivent passer au contrôle technique tous les 5 ans"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 53,
+    "q": "Conformément à la réglementation, la première dilution du fond de cuve se fait en ajoutant un volume d’eau égal à :",
+    "options": [
+      "5 fois le volume de bouillie restant en fond de cuve",
+      "10 fois le volume de bouillie restant en fond de cuve",
+      "20 fois le volume de bouillie restant en fond de cuve"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 54,
+    "q": "Dans le cadre de la lutte intégrée :",
+    "options": [
+      "L'utilisation des Produits Phytosanitaires est interdite",
+      "L'allongement de la rotation est fortement conseillée",
+      "Il ne faut utiliser que des produits de Biocontrôle",
+      "Le désherbage mécanique est  autorisé"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 55,
+    "q": "Dans le cadre de la lutte intégrée, le seuil de nuisibilité est :",
+    "options": [
+      "Un seuil à partir duquel la plante meurt",
+      "Un seuil à partir duquel un traitement phytopharmaceutique peut être rentable",
+      "Un seuil où la plante fleurit"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 56,
+    "q": "Dans le cadre de la lutte intégrée, le seuil de nuisibilité est égal au :",
+    "options": [
+      "Niveau de la population d'un ennemi des cultures à partir duquel le coût des interventions est supérieur aux coûts des dégâts",
+      "Niveau de la population d'un ennemi des cultures à partir duquel le coût des interventions est inférieur aux coûts des dégâts",
+      "Seuil de tolérance économique"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 57,
+    "q": "Dans le cadre de la protection intégrée, la lutte chimique doit :",
+    "options": [
+      "Etre un dernier recours",
+      "Etre une méthode préventive",
+      "Etre interdite"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 58,
+    "q": "Dans le cadre de l’utilisation de substances de base, le bicarbonate de soude (Hydrogénocarbonate de sodium) peut être employé comme désherbant :",
+    "options": [
+      "En pré-levée sur grandes cultures",
+      "En anti-germinatif sur les voiries",
+      "Sur les végétaux à caractère invasif tel que la renouée du Japon",
+      "Sur certaines adventices pour les cultures en pot"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 59,
+    "q": "Dans le cadre d’un désherbage d'une culture, quel est le critère à prendre en compte afin d’envisager une modulation de dose ?",
+    "options": [
+      "Le stade des adventices",
+      "Le vent",
+      "Le stade de la culture",
+      "La luminosité"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 60,
+    "q": "Dans le local de stockage de produits phytopharmaceutiques, on peut trouver  :",
+    "options": [
+      "Des équipements de protection individuelle neufs",
+      "Des matières absorbantes (sable, sciure, kit d’absorption…)",
+      "Les consignes de sécurité",
+      "Des produits d'entretien"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 61,
+    "q": "Dans le local de stockage phytosanitaire :",
+    "options": [
+      "Les produits stockés doivent détenir une AMM valide",
+      "Les produits CMR doivent être mis sur une étagère à part, identifiée",
+      "On peut ranger les pulvérisateurs"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 62,
+    "q": "Dans le local phytopharmaceutique, je peux :",
+    "options": [
+      "Stocker des produits biocides",
+      "stocker les EPI",
+      "Stocker des semences traitées"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 63,
+    "q": "Dans le local phytopharmaceutique, je peux :",
+    "options": [
+      "Prendre mon déjeuner",
+	  "Enfiler ma combinaison",
+      "Stocker des ustensiles réservés à la préparation des bouillies",
+      "Ranger les Equipements de Protection Individuelle (EPI) en attente d’utilisation,",
+      "Stocker les produits non utilisables"
+    ],
+    "answers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 64,
+    "q": "Dans le local phytopharmaceutique, je peux :",
+    "options": [
+      "Fumer",
+      "Stocker les emballages vides",
+      "Stocker les aliments pour les animaux",
+      "Stocker des gants et masques neufs"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 65,
+    "q": "Dans quel document peut-on trouver les usages homologués des produits phytopharmaceutiques :",
+    "options": [
+      "Dans les fiches de données de sécurité",
+      "Sur les étiquettes des produits",
+      "Dans l'index phytosanitaire de l'ACTA",
+      "Sur le site Internet \"ephy.anses.fr\""
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 66,
+    "q": "Dans quel endroit le risque d'intoxication par inhalation pendant la préparation de la bouillie de traitement est-il le plus faible ?",
+    "options": [
+      "Dans un petit local fermé",
+      "Dans une serre",
+      "En plein air"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 67,
+    "q": "Dans quelles circonstances doit-on contacter le réseau Phyt'attitude ?",
+    "options": [
+      "Après traitement médical d'une intoxication suite à une exposition à un produit phytosanitaire",
+      "Suite à un surdosage sur une culture",
+      "Suite à un déversement accidentelle dans le cours d'eau"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 68,
+    "q": "Dans quelles situations risquez-vous d'être exposés aux produits phytosanitaires ?",
+    "options": [
+      "Lors des labours",
+      "Lors du nettoyage du pulvérisateur",
+      "Lors du traitement"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 69,
+    "q": "Dans quelles situations risquez-vous d'être exposés aux produits phytosanitaires ?",
+    "options": [
+      "Lors de la gestion des déchets (ex : bidons vides)",
+      "Lors du repas au restaurant",
+      "Lors de la préparation de la bouillie"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 70,
+    "q": "Dans une entreprise réalisant des travaux d'application de produits phytopharmaceutiques, l'employeur est tenu de se conformer à certaines obligations :",
+    "options": [
+      "Assurer la formation des employés concernant les risques qu'ils encourent",
+      "S'assurer que les employés se protègent lors d'une application",
+      "Demander aux employés de fournir leurs équipements de protection individuelle"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 71,
+    "q": "De  ces propositions  qu'elle est celle qui  donne des informations sur la dangerosité des produits chimiques ?",
+    "options": [
+      "Le Larousse Agricole",
+      "Quick FDS",
+      "Les fiches toxicologiques INRS"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 72,
+    "q": "De  ces propositions  quelles sont celles qui  donnent des informations sur la dangerosité des produits chimiques ?",
+    "options": [
+      "Le Larousse Agricole",
+      "Quick FDS",
+      "Les fiches toxicologiques INRS"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 73,
+    "q": "Diminuer la dose par rapport à la dose homologuée d'un produit phytopharmaceutique pourrait entraîner :",
+    "options": [
+      "L’apparition de résistances aux produits",
+      "Des phénomènes de phytotoxicité sur la culture",
+      "La prolifération des ravageurs que l’on veut détruire",
+      "Une baisse de la toxicité du produit"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 74,
+    "q": "Durant le traitement, si une buse du pulvérisateur se bouche, il est conseillé de :",
+    "options": [
+      "Souffler dedans",
+      "La démonter à main nue et la rincer au robinet du rince-mains",
+      "Augmenter la pression",
+      "La démonter équipé de mes EPI et en mettre une neuve à la place"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 75,
+    "q": "En 2013, le pourcentage des cours d'eau français contenant des traces de produits phytopharmaceutiques   :",
+    "options": [
+      "Est passé de 90 à 30 % depuis le démarrage du plan ECOPHYTO",
+      "Est évalué à plus de 90 %",
+      "Est passé sous la barre des 10 %"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 76,
+    "q": "En cas de contamination cutanée avec des produits phytopharmaceutiques, il faut enlever les vêtements souillés et :",
+    "options": [
+      "Mettre du talc afin d'absorber le produit",
+      "Laver à l'eau et au savon les parties du corps contaminées",
+      "Badigeonner les parties du corps contaminées avec une crème très hydratante ou une huile pour le corps",
+      "Ne rien faire, consulter la fiche de données de sécurité et attendre que le médecin arrive"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 77,
+    "q": "En cas de contamination oculaire avec des produits phytopharmaceutiques, il faut :",
+    "options": [
+      "Rincer l’œil abondamment à l'eau claire pendant plusieurs minutes",
+      "Mettre une compresse sur l’œil pour le maintenir fermé et appeler les urgences",
+      "Consulter les urgences ophtalmologiques et leur montrer la FDS du produit"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 78,
+    "q": "En cas de déversement accidentel de produit phytosanitaire, que faut-il faire en premier ?",
+    "options": [
+      "Alerter les autorités compétentes",
+      "Stopper la fuite de produit",
+      "Empêcher le produit de s'écouler vers les points d'eau"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 79,
+    "q": "En cas de fuite d'un bidon de produit phytosanitaire dans le local de stockage :",
+    "options": [
+      "Je préviens immédiatement les pompiers",
+      "Je déverse de l'absorbant dessus que je récupère et élimine comme déchet industriel dangereux",
+      "Je nettoie mon local à grande eau pour retirer la pollution"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 80,
+    "q": "En cas de projection accidentelle de produits phytopharmaceutique sur la peau, il faut :",
+    "options": [
+      "Essuyer avec un linge très propre",
+      "Nettoyer avec un coton imbibé de désinfectant",
+      "Rincer longuement à l'eau claire",
+      "Rincer longuement avec de l'eau additionnée de désinfectant"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 81,
+    "q": "En cas de projection accidentelle sur la peau ou les yeux :",
+    "options": [
+      "Je frotte vivement le point atteint",
+      "J'étale au maximum la substance",
+      "Je me lave à l'eau abondamment"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 82,
+    "q": "En cas de projection cutanée d'un produit phytosanitaire :",
+    "options": [
+      "J'appelle d'abord le numéro  Phyt'attitude",
+      "Je mets une crème pour peau irritée",
+      "Je rince abondamment la peau en contact avec de l'eau"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 83,
+    "q": "En cas de projection de produit sur votre corps, que faire ?",
+    "options": [
+      "Rincer abondamment à l'eau tout en retirant les vêtement souillés",
+      "Ne pas déshabiller la victime et attendre les secours",
+      "Consulter la Fiche de Données de Sécurité"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 84,
+    "q": "En cas de projection de produit sur votre corps, que faire ?",
+    "options": [
+      "Rincez-vous abondamment à l'eau tout en retirant les vêtement souillés",
+      "Ne pas déshabiller la victime et attendre les secours",
+      "Mettre une crème protectrice contre les brûlures"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 85,
+    "q": "En cas de projection oculaire d'un produit phytosanitaire",
+    "options": [
+      "Je rince d'abord l'œil sous l'eau au moins 10 minutes",
+      "J'appelle le centre antipoison",
+      "J'appelle d'abord le numéro  Phyt'attitude"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 86,
+    "q": "En cas de projection oculaire d'un produit phytosanitaire :",
+    "options": [
+      "Je ne fais rien",
+      "je rince l'œil sous l'eau au moins 10 minutes",
+      "Je mets quelque gouttes d'un collyre"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 87,
+    "q": "En cas d'ingestion accidentelle d'un produit phytosanitaire :",
+    "options": [
+      "J'essaye de vomir le produit",
+      "Je bois du lait",
+      "J'appelle le centre anti-poison"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 88,
+    "q": "En cas d’ingestion, il faut :",
+    "options": [
+      "Faire vomir",
+      "Faire boire de l’eau au plus vite",
+      "Se référer à la Fiche de Données de Sécurité"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 89,
+    "q": "En cas d'intoxication accidentelle par inhalation de produit phytopharmaceutique il faut :",
+    "options": [
+      "Boire du lait",
+      "Mettre la victime à l'air frais",
+      "Boire beaucoup d'eau",
+      "Faire le 15",
+      "Faire le 12"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 90,
+    "q": "En cas d'intoxication aiguë, quel numéro doit-on composer ?",
+    "options": [
+      "15 ou 112",
+	  "17",
+	  "118218"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 91,
+    "q": "En cas d'intoxication aiguë, quel numéro doit-on composer ?",
+    "options": [
+      "15 ou 114",
+	  "17",
+      "15 ou 112"
+    ],
+    "answers": [
+      0,
+	  2
+    ]
+  },
+  {
+    "id": 92,
+    "q": "En cas d'intoxication aiguë, quel numéro doit-on composer ?",
+    "options": [
+      "15 ou 114",
+	  "115",
+	  "118"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 93,
+    "q": "En cas d’intoxication par ingestion d'un produit phytopharmaceutique  sur un lieu de travail, que faut-il faire ?",
+    "options": [
+      "Faire vomir",
+      "Faire boire",
+      "Appeler le SAMU ou le centre anti-poison"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 94,
+    "q": "En fin d'application, il est possible de laver le pulvérisateur :",
+    "options": [
+      "Dans la parcelle du client",
+      "Dans la cour du client",
+      "Dans la cour de l'entreprise",
+      "Sur une aire de lavage équipée d'un système de retraitement des effluents"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 95,
+    "q": "En fin de traitement il reste 100 litres de bouillie alors que j'avais prévu la quantité exacte pour la parcelle. Cela signifie que :",
+    "options": [
+      "J'ai surdosé",
+      "J'ai sous-dosé",
+      "J'ai mis la bonne dose"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 96,
+    "q": "En fin de traitement, que faire du restant de la bouillie ?",
+    "options": [
+      "J'applique le restant sur la parcelle que je viens de traiter",
+      "Je conserve la bouillie pour un traitement ultérieur",
+      "Je dilue au centième la bouillie pour pouvoir vidanger sur la parcelle que je viens de traiter",
+      "Je dilue au centième la bouillie pour pouvoir vidanger sur le chemin"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 97,
+    "q": "En l'absence d'un contrat annuel établi entre l'entreprise de prestation et le client, la commande d'une prestation peut se faire :",
+    "options": [
+      "Par téléphone",
+      "Par téléphone si un \"bon de travaux pour acceptation de chantier\" est signé par le client",
+      "Par courrier signé",
+      "Par SMS"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 98,
+    "q": "En matière de protection de la santé, la FDS peut apporter des informations du type :",
+    "options": [
+	  "Précautions de stockage, d'emploi et de manipulation",
+      "Coordonnées de l'hôpital le plus proche",
+      "Les caractéristiques des Equipements de Protection Individuelle (EPI)"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 99,
+    "q": "En matière de protection de la santé, la FDS peut apporter des informations du type :",
+    "options": [
+      "Informations toxicologiques",
+      "Précautions de stockage, d'emploi et de manipulation",
+      "Doses d'application"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 100,
+    "q": "En quoi consiste la lutte autocide ?",
+    "options": [
+      "Introduire en grande quantité des individus mâles stériles du ravageur cible pour limiter la descendance",
+      "Introduire en grande quantité des organismes prédateurs du ravageur cible",
+      "Eliminer les ravageurs cibles"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 101,
+    "q": "En respect de la réglementation, les produits doivent être stockés :",
+    "options": [
+      "Hors de la portée des enfants",
+      "Dans leur emballage d’origine",
+      "Dans un local sur des étagères en bois",
+      "Par catégories, les plus gros contenants dans les parties basses"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 102,
+    "q": "En terme de nuisance sur l'environnement, l'entraînement d'un produit phytopharmaceutique par ruissellement aura pour conséquence première :",
+    "options": [
+      "De provoquer une pollution des eaux superficielles",
+      "De provoquer une pollution des nappes phréatiques",
+      "De provoquer une pollution atmosphérique"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 103,
+    "q": "En utilisant un produit avec la mention abeille floraison, je peux :",
+    "options": [
+      "Traiter des plantes fleuries à midi",
+      "Traiter des plantes non fleuries à midi",
+      "Traiter des plantes fleuries à minuit",
+      "Traiter des plantes non fleuries à minuit"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 104,
+    "q": "Identifier parmi les mentions de danger suivantes, celle qui fera que le produit est CMR (Cancérigène Mutagène Reprotoxique) :",
+    "options": [
+      "H336 : Peut provoquer somnolence ou vertiges",
+      "H360 : Peut nuir au fœtus",
+      "H314 : Provoque de graves brûlures de la peau"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 105,
+    "q": "Il est interdit d'intervenir en période d'exsudat et floraison avec des mélanges de :",
+    "options": [
+      "Pyréthrinoïdes et morpholine",
+      "Pyréthrinoïdes et strobilurine",
+      "Pyréthrinoïdes et cymoxamil",
+      "Pyréthrinoïdes et triazoles",
+      "Pyréthrinoïdes et fosetyl aluminium"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 106,
+    "q": "Il est possible de réduire une Zone Non Traitée (ZNT) de 20 mètres à 5 mètres si :",
+    "options": [
+	  "Un dispositif végétalisé permanent est implanté",
+      "Des buses anti-dérives homologuées sont utilisées",
+      "La pulvérisation est faite dans des conditions optimales (bonne hygrométrie et absence totale de vent)",
+      "Un registre phytopharmaceutique est tenu",
+      "J'utilise un adjuvant anti-dérive"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 107,
+    "q": "Il est possible de stocker les produits phytopharmaceutiques :",
+    "options": [
+      "Dans la chaufferie",
+      "Dans un local fermé à clé et aéré réservé à ces produits",
+      "Dans une grange à même le sol",
+      "Dans la même armoire que les produits vétérinaires",
+      "Dans la cave de la maison"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 108,
+    "q": "Indiquer l’action réglementaire concernant le devenir des fonds de cuve non dilués :",
+    "options": [
+      "Appliquer sur la parcelle traitée après dilution",
+      "Appliquer en l'état sur la parcelle traitée",
+      "Vidanger sur une zone enherbée"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 109,
+    "q": "Je dois désherber une parcelle qui jouxte la cour d'une école ou d'une crèche. Quelles précautions dois-je prendre ?",
+    "options": [
+      "Je n'ai pas le droit de traiter chimiquement près d'un lieu accueillant les enfants",
+      "J'ai le droit de traiter mais je prends la précaution de prévenir le chef d'établissement",
+      "Je préfère traiter après le départ des enfants",
+      "Je dois demander une autorisation préfectorale"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 110,
+    "q": "Je dois mélanger une poudre et un liquide dans mon pulvérisateur. Quel ordre d'introduction dois-je respecter ?",
+    "options": [
+      "Le liquide puis la poudre",
+      "La poudre puis le liquide",
+      "Les deux en même temps"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 111,
+    "q": "Je peux mélanger un produit H350 (Peut provoquer le cancer) avec :",
+    "options": [
+      "Un produit H360 (Peut nuir à la fertilié ou au fœtus)",
+      "Un produit H340 (Peut induire des anomalies génétiques)",
+      "Aucun autre produit",
+      "Un produit H300 (Mortel en cas d'ingestion)"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 112,
+    "q": "Je peux pulvériser le fond de cuve sur la parcelle traitée en ajoutant dans la cuve un volume d'eau au moins égal à :",
+    "options": [
+      "4 fois le volume du fond de cuve",
+      "5 fois le volume du fond de cuve",
+      "8 fois le volume du fond de cuve",
+      "10 fois le volume du fond de cuve",
+      "100 fois le volume du fond de cuve"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 113,
+    "q": "Je réalise un désherbage avec un produit présentant les phrases de risque H335 (peut irriter les voies respiratoires) et H315 (provoque une irritation cutanée), quels EPI (équipements de protection individuelle) dois-je utiliser ?",
+    "options": [
+      "Des gants uniquement",
+      "Des gants et un masque à cartouche",
+      "Une combinaison, des gants et un masque à cartouche",
+      "Des gants, un masque à cartouche et des lunettes"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 114,
+    "q": "Je stocke mes produits phytopharmaceutiques dans un hangar aéré et fermé à clé. Que puis-je ranger d'autre dans ce local ?",
+    "options": [
+      "Je peux ranger également mes EPI",
+      "Je peux y stocker mes sacs d'engrais",
+      "Je peux y mettre des bidons d'huile usagée",
+      "Je peux y mettre les EVPP"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 115,
+    "q": "Je traite avec un produit phytopharmaceutique classé H351, je peux le mélanger avec :",
+    "options": [
+	  "un produit phytopharmaceutique classé H301",
+      "un produit phytopharmaceutique classé H351",
+      "un produit phytopharmaceutique classé H411",
+      "un adjuvant non classé"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 116,
+    "q": "J'observe depuis plusieurs années sur une parcelle une forte pression de maladies fongiques. Comment faire pour limiter leur développement ?",
+    "options": [
+      "Je choisis des variétés tolérantes ou résistantes",
+      "Je traite de façon systématique",
+      "J'utilise toujours la même substance active",
+      "Je diversifie mes cultures sur cette parcelle"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 117,
+    "q": "La biodiversité désigne :",
+    "options": [
+      "Un ensemble de milieux différents",
+      "L’ensemble des organismes vivants dans un milieu",
+      "L'utilisation de produits biodégradables"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 118,
+    "q": "La biotisation consiste à :",
+    "options": [
+      "Réaliser un lâcher d’insectes auxiliaires prédateurs des ennemis de cultures",
+      "Réaliser un apport de micro-organismes permettant d’améliorer la résistance de la plante aux agents pathogènes",
+      "Utiliser des hormones permettant de piéger des populations de ravageurs",
+      "Utiliser des plantes bio-indicatrices pour connaître les cycles ravageurs / maladies"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 119,
+    "q": "La carpovirusine est un virus qui permet de lutter contre :",
+    "options": [
+      "Les hannetons dans un gazon",
+      "Les pucerons sur les rosiers",
+      "Le ver de la pomme",
+      "La mouche de la cerise"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 120,
+    "q": "La coccinelle est un :",
+    "options": [
+      "Auxiliaire",
+      "Ravageur",
+      "Parasite"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 121,
+    "q": "La confusion sexuelle est basée sur l'utilisation :",
+    "options": [
+      "De diffuseurs",
+      "De kairomones",
+      "De pulvérisateurs",
+      "De phéromones"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 122,
+    "q": "La couleur d’une buse indique :",
+    "options": [
+      "Sa résistance à l’abrasion",
+      "Son calibre",
+      "Sa pression d’utilisation"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 123,
+    "q": "La diversification des rotation culturales sur une même parcelle :",
+    "options": [
+      "Peut permettre de limiter certains problèmes phytosanitaires",
+      "N’a aucun effet sur l’état phytosanitaire des cultures",
+      "Est déconseillé car les ravageurs finissent par s’attaquer à toutes les cultures",
+      "N’est plus utile depuis le développement des plantes transgéniques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 124,
+    "q": "La DL50 est indiquée :",
+    "options": [
+      "Dans l'index phyto ACTA pour certains produits",
+      "Dans les Fiches de Données de Sécurité",
+      "Sur tous les emballages des produits"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 125,
+    "q": "La dose autorisée pour un traitement phytopharmaceutique est la dose :",
+    "options": [
+      "Maximale à appliquer",
+      "Minimale à appliquer",
+      "Moyenne à appliquer"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 126,
+    "q": "La dose homologuée pour un traitement phytopharmaceutique correspond à :",
+    "options": [
+      "La dose maximale autorisée",
+      "La dose minimale autorisée",
+      "La dose conseillée (proposée par le fabricant) en fonction de critères tels que le stade des adventices, l’hygrométrie, etc."
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 127,
+    "q": "La Dose Létale 50 (DL 50) est indiquée :",
+    "options": [
+      "Dans l'index phyto ACTA pour certains produits",
+      "Dans les Fiches de Données de Sécurité",
+      "Sur tous les emballages des produits"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 128,
+    "q": "La DT 50 correspond à :",
+    "options": [
+      "A la dose létale qui fait mourir 50% d'animaux de laboratoires",
+      "La dose de traitement réduite à 50%",
+      "La durée de demie vie d'un produit",
+      "La durée de toxicité du produit"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 129,
+    "q": "La formulation d'un produit phytopharmaceutique est en fait :",
+    "options": [
+	  "Sa présentation sous forme liquide, solide, gazeuse, poudre mouillable…",
+      "Son mode d'action",
+      "Un type d'emballage précis"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 130,
+    "q": "La largeur de la Zone Non Traitée (ZNT) cours d'eau d'un produit phytopharmaceutique est définie en fonction :",
+    "options": [
+      "De l'intensité de la pente entre la parcelle traitée et le cours d'eau",
+      "De la vitesse du vent le jour de la pulvérisation",
+      "Des caractéristiques physiques et chimiques du produit"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 131,
+    "q": "La larve de Syrphe est :",
+    "options": [
+      "Un parasite du colza",
+      "Un parasitoïde de la pyrale du maïs",
+      "Un auxiliaire pour lutter contre certains ravageurs"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 132,
+    "q": "La loi autorise un retour anticipé sur parcelles traitées ?",
+    "options": [
+      "Avec le même type de protection utilisé lors du traitement",
+      "En cas de besoin impérieux",
+      "Au maximum deux fois par an"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 133,
+    "q": "La loi autorise un retour anticipé sur parcelles traitées ?",
+    "options": [
+      "En cas de pulvérisation de produits biologiques",
+      "S'il a plu entre temps",
+      "En cas de besoin impérieux"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 134,
+    "q": "La lutte alternative contre les limaces consiste à :",
+    "options": [
+      "Travailler le sol pour détruire leurs refuges et les éliminer physiquement",
+      "Utiliser des moyens de biocontrôle comme les nématodes",
+      "Favoriser la présence des lépidoptères, leurs ennemis naturels"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 135,
+    "q": "La lutte biologique consiste à :",
+    "options": [
+      "Laisser se développer le plus possible les bioagresseurs jusqu’à ce qu’ils soient en concurrence entre eux",
+      "N’utiliser que des produits phytopharmaceutiques de synthèse",
+      "Utiliser les ennemis des parasites des végétaux"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 136,
+    "q": "La lutte biologique peut consister à :",
+    "options": [
+      "Utiliser des auxiliaires non indigènes pour lutter contre certains ravageurs",
+      "Favoriser la faune locale prédatrice de nuisibles",
+      "Epandre un insecticide autorisé en agriculture biologique sur des ravageurs"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 137,
+    "q": "La lutte chimique qui utilise des seuils de nuisibilité pour adapter les traitement peut être qualifiée de :",
+    "options": [
+	  "systématique",
+      "raisonnée",
+      "intégrée"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 138,
+    "q": "La lutte intégrée :",
+    "options": [
+      "Oblige à utiliser les produits proposés par une seule et même firme phytopharmaceutique",
+      "Signifie qu’aucun produit phytopharmaceutique ne peut être utilisé, même si l’application est raisonnée",
+      "Fait appel à la combinaison de différentes méthodes de lutte (lutte biologique, lutte chimique, les techniques agronomiques, …)"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 139,
+    "q": "La lutte intégrée consiste à :",
+    "options": [
+	  "Utiliser de préférence les méthodes alternatives, avant de recourir à la lutte phytosanitaire",
+      "Favoriser la présence des auxiliaires",
+      "N'utiliser que des produits phytosanitaires autorisés en agriculture biologique"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 140,
+    "q": "La meilleure qualification pour désigner un puceron par rapport à son action sur la plante est :",
+    "options": [
+      "Auxiliaire",
+      "Ravageur",
+      "Agent phytopathogène"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 141,
+    "q": "La modulation de dose vis-à-vis de la dose homologuée pour un herbicides pourrait entraîner :",
+    "options": [
+      "L’apparition de résistances aux produits",
+      "Des phénomènes de phytotoxicité sur la culture",
+      "La prolifération des individus que l’on veut détruire",
+      "Une baisse de la toxicité du produit"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 142,
+    "q": "La persistance d’action d'un produit phytopharmaceutique est :",
+    "options": [
+	  "La durée de vie d’une spécialité commerciale une fois l’emballage ouvert",
+      "La durée pendant laquelle une substance active agit toujours",
+      "La durée nécessaire à l'élimination de l'organisme nuisible visé"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 143,
+    "q": "La pollution des cours d'eau par les produits phytopharmaceutiques est principalement causée par :",
+    "options": [
+      "Le ruissellement",
+      "Le vent",
+      "L'oxydation"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 144,
+    "q": "La pollution diffuse est une pollution :",
+    "options": [
+      "Indirecte",
+      "Directe",
+      "Accidentelle"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 145,
+    "q": "La principale voie de contamination des applicateurs de produits phytopharmaceutiques, c'est :",
+    "options": [
+      "Les yeux",
+      "Les poumons",
+      "Le système digestif",
+      "La peau, en particulier les mains"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 146,
+    "q": "La présence de miellat sur les feuilles est la conséquence d’une infestation de :",
+    "options": [
+      "Sauterelles",
+      "Pucerons",
+      "Acariens",
+      "Charançons"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 147,
+    "q": "La présence d’une chenille sur un végétal est le signe d’attaque :",
+    "options": [
+      "D’un acarien",
+      "D’un papillon",
+      "D’un nématode"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 148,
+    "q": "La qualité de la pulvérisation est conditionnée par :",
+    "options": [
+      "Le calendrier lunaire",
+      "La température",
+      "Le vent",
+      "La taille de la rampe du pulvérisateur"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 149,
+    "q": "La rotation fait partie des leviers mobilisables pour la mise en place de la lutte intégrée, cela permet :",
+    "options": [
+      "De créer une rupture dans les cycles de maladies",
+      "De maintenir le nombre de traitements phytosanitaires sur l’exploitation",
+      "De limiter la reproduction des parasites du sol",
+      "De réduire le temps de travail"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 150,
+    "q": "La règlementation des produits phytopharmaceutiques distingue des catégories de véhicules. Parmi les véhicules suivants, lesquels sont qualifiés de routiers ?",
+    "options": [
+      "Un pick-up",
+      "Un utilitaire",
+      "Un tracteur agricole équipé d'une remorque"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 151,
+    "q": "La rémanence d’un produit phytopharmaceutique est :",
+    "options": [
+      "Le délai pendant lequel le produit manifeste une activité",
+      "Le mode d’action du produit au contact du nuisible",
+      "Le seuil d’application pour limiter les risques environnementaux"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 152,
+    "q": "La solarisation :",
+    "options": [
+      "Permet de lutter contre les bioagresseurs du sol",
+      "Est l'intensité lumineuse nécessaire à une bonne résistance des végétaux contre les maladies",
+      "Peut être utilisée sans détenir de Certiphyto"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 153,
+    "q": "La substance de base saccharose peut être utilisée sur le pommier comme :",
+    "options": [
+      "Insecticide",
+      "Simulateur des défenses naturelles",
+      "Fongicide",
+      "Acaricide"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 154,
+    "q": "La technique de faux semis consiste à :",
+    "options": [
+      "Alterner les cultures afin de rompre les cycles ravageurs / maladies",
+      "Semer des prairies fleuries afin de maintenir la présence d’auxiliaires",
+      "Semer des espèces légumineuses qui restituent l’azote dans le sol",
+      "Préparer le sol sans semer afin de lever la dormance et d’éliminer les adventices présentes dans le sol"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 155,
+    "q": "La vitesse maximale du vent pour réaliser une application de produit phytopharmaceutique est réglementairement fixée à :",
+    "options": [
+      "1 Beaufort",
+      "2 Beaufort",
+      "3 Beaufort"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 156,
+    "q": "L'acide pélargonique a un mode d'action :",
+    "options": [
+      "Pénétrant",
+      "Systémique",
+      "Par contact",
+      "Anti-germinatif"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 157,
+    "q": "L’acide pélargonique est :",
+    "options": [
+      "A usage herbicide",
+      "A usage insecticide",
+      "De contact",
+      "Systémique"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 158,
+    "q": "L’application d’un produit phytopharmaceutique peut déclencher des phénomènes de résistance. Pour limiter ces phénomènes, il est conseillé de :",
+    "options": [
+      "Augmenter les doses",
+      "Réduire les doses",
+      "Alterner les produits à mode d'action différent",
+      "Limiter le nombre d'application de produits"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 159,
+    "q": "Le Bacillus Thuringiensis est :",
+    "options": [
+      "Un produit de Biocontrôle",
+      "Un micro-organisme",
+      "Une molécule de synthèse",
+      "Un produit phytosanitaire"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 160,
+    "q": "Le Beauveria bassiana :",
+    "options": [
+      "Est un champignon qui provoque des maladies cryptogamiques",
+      "Est un champignon utilisé en lutte biologique",
+      "Est un insecte phytophage",
+      "Est un insecte auxiliaire des cultures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 161,
+    "q": "Le bicarbonate de potassium peut être utilisé comme substance de base en tant que :",
+    "options": [
+      "Fongicide",
+      "Insecticide",
+      "Désherbant",
+      "Acaricide"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 162,
+    "q": "Le bio-contrôle par conservation consiste à :",
+    "options": [
+      "Utiliser des substances de base",
+      "Utiliser des prédateurs des ennemis des cultures présents dans l’environnement",
+      "Faire des lâchers inondatifs de macro-organismes"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 163,
+    "q": "Le bulletin de santé du végétal remplace :",
+    "options": [
+      "Les avertissements agricoles",
+      "Le bulletin de l'Astredhor",
+      "Le bulletin santé de la Mutualité Sociale Agricole"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 164,
+    "q": "Le certificat individuel « opérateur en travaux et service » permet  :",
+    "options": [
+      "D'être systématiquement identifié comme acheteur des produits phytopharmaceutiques",
+      "L'utilisation professionnel des produits phytopharmaceutiques",
+      "L'organisation et l'encadrement de chantiers d'utilisation des produits phytopharmaceutiques"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 165,
+    "q": "Le client me demande d'ajouter dans la cuve un produit dont l'étiquette est illisible :",
+    "options": [
+      "Je mets le produit dans la cuve pour faire plaisir au client",
+      "Je refuse poliment car cela est interdit",
+      "J'accepte et invente le nom de produit sur la fiche de traçabilité"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 166,
+    "q": "Le client me propose d'ajouter dans la cuve un produit dont l'étiquette est illisible :",
+    "options": [
+      "Je mets le produit dans la cuve et en informe mon responsable",
+      "Je suspens le chantier car cela présente des risques et j'en informe mon responsable",
+      "J'accepte et invente le nom de produit sur la fiche de traçabilité"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 167,
+    "q": "Le contrôle du pulvérisateur par un organisme agréé concerne :",
+    "options": [
+      "Les appareils dont la largeur de rampe est supérieure à 3 mètres",
+      "Les pulvérisateurs munis de dispositif distribuant les liquides sur un plan vertical",
+      "Les pulvérisateurs à dos"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 168,
+    "q": "Le décideur est chargé de :",
+    "options": [
+      "Faire les calculs de produits pour ses opérateurs",
+      "Effectuer les achats de produits phytopharmaceutiques",
+      "Prévenir les clients 24 heures à l’avance en cas de traitement"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 169,
+    "q": "Le délai de rentrée dans la parcelle après l'application d'un produit phytopharmaceutique qui provoque une irritation cutanée (H315) est de :",
+    "options": [
+      "6 heures",
+      "8 heures",
+      "24 heures",
+      "48 heures"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 170,
+    "q": "Le délai de rentrée en milieu ouvert est au minimum de :",
+    "options": [
+      "4 heures",
+      "6 heures",
+      "8 heures",
+      "12 heures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 171,
+    "q": "Le délai de ré-entrée dans une parcelle suite à l'épandage d'un produit phytopharmaceutique classé H317 (\"Peut provoquer une allergie cutanée\") est de :",
+    "options": [
+      "24 heures",
+      "48 heures",
+      "72 heures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 172,
+    "q": "Le délai minimum de ré-entrée dans une parcelle suite à un traitement est de :",
+    "options": [
+      "3 heures",
+      "6 heures",
+      "9 heures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 173,
+    "q": "Le désherbage thermique est davantage efficace  :",
+    "options": [
+      "Sur un arbuste",
+      "Sur des petites plantules, sans réserve racinaire",
+      "Sur des plantes dotées d'un système racinaire bulbeux ou rhizomeux"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 174,
+    "q": "Le faux semis est :",
+    "options": [
+      "Une technique culturale de désherbage",
+      "Uniquement réservé aux agriculteurs",
+      "Une pathologie qui provoque la destruction des jeunes plantules au moment de la levée des semis"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 175,
+    "q": "Le local de stockage phytopharmaceutique doit :",
+    "options": [
+      "Permettre le passage d’air par une ventilation haute et basse",
+      "Etre accessible en permanence à toute personne",
+      "Avoir des équipements électriques en bon état",
+      "Disposer d’au moins deux étagères"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 176,
+    "q": "Le pictograme permettant de repèrer les produits CMR, c'est  :",
+    "options": [
+      "Un point d'exclamation",
+      "Un arbre et un poisson morts",
+      "Un champignon vénéneux",
+      "Une silhouette qui \"implose\""
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 177,
+    "q": "Le pictogramme  avec l'homme au \"buste éclaté\"  peut signifier :",
+    "options": [
+      "Je nuis gravement à la santé",
+      "Je fais flamber",
+      "Je tue"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 178,
+    "q": "Le pictogramme  avec l'homme au \"buste éclaté\"  peut signifier :",
+    "options": [
+      "Je ronge",
+      "Je nuis gravement à la santé",
+      "J'explose"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 179,
+    "q": "Le pictogramme  avec l'homme au \"buste éclaté\"  peut signifier :",
+    "options": [
+      "Je pollue",
+      "Je flambe",
+      "Je nuis gravement à la santé"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 180,
+    "q": "Le pictogramme  \"tête de mort\"  peut signifier :",
+    "options": [
+      "Je pollue",
+      "Je tue",
+      "J'explose"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 181,
+    "q": "Le pictogramme  \"tête de mort\"  peut signifier :",
+    "options": [
+      "A l'attaque",
+      "Je peux exploser au contact d'une flamme",
+      "Je tue"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 182,
+    "q": "Le pictogramme \"point d'exclamation\"  peut signifier :",
+    "options": [
+      "J'altère la santé",
+      "Je tue",
+      "Je suis sous pression"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 183,
+    "q": "Le pictogramme \"point d'exclamation\"  peut signifier :",
+    "options": [
+      "J'altère la santé",
+      "Je suis sous pression",
+      "Je provoque le cancer"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 184,
+    "q": "Le pictogramme \"point d'exclamation\"  peut signifier :",
+    "options": [
+      "Je provoque des effets néfastes sur le milieu aquatique",
+      "J'altère la santé",
+      "J'explose"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 185,
+    "q": "Le pictogramme \"point d'exclamation\"  peut signifier :",
+    "options": [
+	  "J'irrite la peau, les yeux et/ou les voies respiratoires",
+      "Je suis sous pression",
+      "Je provoque le cancer"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 186,
+    "q": "Le pictogramme \"tête de mort\" signifie :",
+    "options": [
+      "Le produit est T ou T+",
+      "Le produit est cancérigène",
+      "Le produit est mortel à faible dose"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 187,
+    "q": "Le ruissellement d'un produit phytosanitaire aura un impact environnemental premier sur :",
+    "options": [
+      "Les eaux superficielles",
+      "L'atmosphère",
+      "Les eaux souterraines"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 188,
+    "q": "Le seuil de  nuisibilité, c’est :",
+    "options": [
+      "La dose de pesticide dangereuse pour l'applicateur",
+      "Les premiers dégâts visibles sur la culture",
+      "Le seuil à partir duquel il peut être nécessaire d’envisager un intervention sanitaire"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 189,
+    "q": "Le seuil de nuisibilité :",
+    "options": [
+      "Dépend des situations individuelles et des choix de chaque décideur",
+      "Est fixé par arrêté préfectoral",
+      "Figure dans les Bulletins de Santé du Végétal"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 190,
+    "q": "Le seuil d’intervention s’appelle également :",
+    "options": [
+      "Seuil de tolérance",
+      "Seuil de nuisibilité",
+      "Seuil de résistance",
+      "Seuil d’application biologique"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 191,
+    "q": "Le sigle BSV signifie :",
+    "options": [
+      "Biologie et Survie des Végétaux",
+      "Bulletin de Santé des Végétaux",
+      "Biologie Systémique sur les Végétaux"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 192,
+    "q": "Le sigle CMR signifie :",
+    "options": [
+      "Cancérogène Mortel Reprotoxique",
+      "Cancérogène Mutagène Reprotoxique",
+      "Corvifuge Molluscicide Rondonticide"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 193,
+    "q": "Le sigle DAR signifie :",
+    "options": [
+      "Dose A Respecter",
+      "Distance A Respecter",
+      "Délai Avant Récolte",
+      "Délai Avant Rentrée"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 194,
+    "q": "Le soufre est utilisable :",
+    "options": [
+      "En Agriculture Biologique",
+      "Uniquement en Agriculture Biologique",
+      "En maraîchage"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 195,
+    "q": "Le stockage des produits phytopharmaceutiques doit respecter certaines règles :",
+    "options": [
+      "Les produits CMR doivent être clairement identifiés et séparés des autres produits",
+      "Il est possible de classer les produits CMR avec tous les autres produits",
+      "Les produits CMR doivent être stockés dans des armoires ou locaux fermés à clé"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 196,
+    "q": "Le système phyto-bac© :",
+    "options": [
+      "Est composé d’un système de filtres de type filtres à charbon",
+      "Est composé d’un mélange de terre et de paille",
+      "Permet de gérer les effluents des produits phytopharmaceutiques"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 197,
+    "q": "Le terme « auxiliaire de culture » désigne :",
+    "options": [
+      "Une plante peu sujette aux attaques de parasites",
+      "Un organisme pour lequel le ravageur réalise une partie de son cycle de vie",
+      "Un prédateur ou parasitoïde détruisant les ennemis des cultures"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 198,
+    "q": "Le terme DVP signifie :",
+    "options": [
+      "Dispositif Végétalisé Permanent",
+      "Décret sur la Verbalisation des Phytopharmaceutiques",
+      "Dérive par le Vent des Phytopharmaceutiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 199,
+    "q": "Le terme \"Mutagène\" signifie :",
+    "options": [
+      "Peut remplacer un autre produit",
+      "Peut induire des anomalies génétiques",
+      "Peut générer de la fumée ou une explosion"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 200,
+    "q": "Le terme \"Reprotoxique\" signifie :",
+    "options": [
+      "Peut provoquer des allergies répétées",
+      "Peut provoquer des intoxications répétées",
+      "Peut nuire à la fertilité ou au fœtus"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 201,
+    "q": "Le terme ZNCA correspond à :",
+    "options": [
+      "Zone Non Cultivée Adjacente",
+      "Zone Naturelle à Capacité Autonome",
+      "Zone Non Cultivable en Arboriculture"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 202,
+    "q": "Le titulaire d'un Certiphyto \"décideur\" peut :",
+    "options": [
+      "Choisir les produits phytosanitaires les moins dangereux pour son équipe",
+      "Vérifier si les produits en stock sont toujours homologués, sur le site Ephy de l'ANSES",
+      "Réaliser les traitements phytosanitaires",
+      "Vendre des produits phytosanitaires aux clients qui en font la demande par écrit"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 203,
+    "q": "Le transport de matières dangereuses est soumis à une réglementation particulière (ADR). Une dispense totale est possible pour le transport des produits phytopharmaceutiques  avec un véhicule routier :",
+    "options": [
+      "Jusqu'à 50 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "Jusqu'à 100 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "Jusqu'à 1000 kg de produits si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 204,
+    "q": "Le transport des produits phytopharmaceutiques par la route :",
+    "options": [
+      "Est libre jusque 10 kg",
+      "Peut être soumis à la réglementation relative au transport (ADR) et donc soumis à restrictions",
+      "Ne concerne pas les produits de biocontrôle"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 205,
+    "q": "Le travail du sol est une solution alternative à l'utilisation des Produits Phytosanitaires qui permet :",
+    "options": [
+      "D’étaler les travaux sur des saisons plus favorables",
+      "De détruire des plantes adventices",
+      "De réduire l’utilisation d’herbicides chimiques"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 206,
+    "q": "L’eau potable destinée à l’alimentation doit respecter des valeurs limites de concentration en pesticides. Quelle est la valeur maximale pour une substance active ?",
+    "options": [
+      "De 0,5 µg/l",
+      "De 0,1 µg/l",
+      "De 0,01 µg/l"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 207,
+    "q": "L'efficacité des substances actives peut varier en fonction de :",
+    "options": [
+      "La température de l'eau",
+      "La dureté de l'eau",
+      "L'acidité de l'eau"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 208,
+    "q": "Lequel de ces équipements est obligatoire sur le pulvérisateur à rampes ?",
+    "options": [
+      "La cuve lave-mains",
+      "Le rince bidon",
+      "Le traceur",
+      "Les buses à limitation de dérive",
+      "Le GPS"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 209,
+    "q": "Les acariens présents sur les parties aériennes de la plante provoquent :",
+    "options": [
+      "Des morsures marginales des feuilles",
+      "Un jaunissement du feuillage",
+      "Une couleur grisâtre du feuillage (plombage)",
+      "Des pourritures des racines"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 210,
+    "q": "Les alternatives au désherbage chimique comprennent :",
+    "options": [
+      "Les paillages",
+      "Les plantes couvre-sol",
+      "Les outils mécaniques",
+      "La pulvérisation raisonnée de désherbant de synthèse"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 211,
+    "q": "Les applications fongicides sur une culture peuvent être réduites par :",
+    "options": [
+      "La fertilisation phosphatée",
+      "La variété",
+      "La forte densité de la culture",
+      "La faible densité de la culture"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 212,
+    "q": "Les auxiliaires de cultures sont :",
+    "options": [
+      "Des insectes prédateurs des abeilles",
+      "Des notices décrivant le mode d'emploi des pesticides",
+      "Des organismes utiles pouvant être utilisés en lutte biologique"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 213,
+    "q": "Les auxiliaires de cultures sont :",
+    "options": [
+      "Des adventices (plantes indésirables) s'ajoutant à la culture en place",
+      "Des ennemis des cultures",
+      "Des prédateurs naturels des ennemis des cultures"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 214,
+    "q": "Les bulletins de santé du végétal (BSV) sont disponibles :",
+    "options": [
+      "Par région administrative",
+      "Par méthodes de lutte",
+      "Par bio-agresseurs",
+      "Par culture"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 215,
+    "q": "Les carabes sont :",
+    "options": [
+      "Des mollusques ravageurs des cultures",
+      "Des auxiliaires consommateurs de mollusques",
+      "Des auxiliaires au stade adulte, mais leurs larves consomment les racines des végétaux"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 216,
+    "q": "Les cartouches de masque EPI :",
+    "options": [
+      "Sont à remplacer après 40h d'utilisation",
+      "Sont à remplacer si je sens une odeur à travers, quelque soit le temps d'utilisation",
+      "Doivent être éliminées via une collecte spécifique, gérée par Adivalor",
+      "Peuvent être jetées aux ordures ménagères"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 217,
+    "q": "Les cartouches des masques EPI :",
+    "options": [
+      "Sont à remplacer immédiatement après 40h d'utilisation",
+      "Sont à remplacer si je sens une odeur à travers, quelque soit le temps d'utilisation",
+      "Doivent être éliminées via une collecte spécifique, gérée par Adivalor",
+      "Peuvent être jeter aux ordures ménagères"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 218,
+    "q": "Les cochenilles peuvent provoquer :",
+    "options": [
+      "Un noircissement du feuillage",
+      "Des morsures marginales des feuilles",
+      "Un jaunissement du feuillage",
+      "Des galeries à l'intérieur de la feuille"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 219,
+    "q": "Les délais de rentrée correspondent à :",
+    "options": [
+      "La durée pendant laquelle il est interdit aux personnes de pénétrer sur la parcelle traitée",
+      "Le temps d’action du produit sur la culture",
+      "Le délai nécessaire à l'applicateur pour revenir à l'exploitation"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 220,
+    "q": "Les désherbants de biocontrôle ont une action :",
+    "options": [
+      "Préventive",
+      "Systémique racinaire",
+      "Systémique foliaire",
+      "De contact"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 221,
+    "q": "Les emballages vides de produits phytopharmaceutiques doivent être :",
+    "options": [
+      "Traités par une filière spécialisée",
+      "Brulés après l'application",
+      "Mis aux ordures ménagères avec un maximum de 1,5 M3 par semaine"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 222,
+    "q": "Les fiches de préconisations délivrées à l'agriculteur suite à un diagnostic des parcelles, doivent faire apparaitre :",
+    "options": [
+      "La date de préconisation",
+      "Le nom ou référence de la parcelle concernée",
+      "La culture",
+      "Le nom de l'applicateur et son numéro de Certiphyto",
+      "La température au moment du diagnostic"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 223,
+    "q": "Les homologations des produits phytosanitaires sont :",
+    "options": [
+      "Accordées par l'ANSES en France",
+      "Accordées par l'agence mondiale pour la protection des plantes et des populations (AMPPP)",
+      "Accordées par les firmes pharmaceutiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 224,
+    "q": "Les mentions de danger qui concernent la santé commence par :",
+    "options": [
+      "H4",
+      "H2",
+      "H3"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 225,
+    "q": "Les moyens alternatifs pouvant être proposés pour lutter contre les champignons pathogènes :",
+    "options": [
+      "N'existent pas à l'heure actuelle",
+      "Se résument principalement à la réduction du nombre d'applications et de doses",
+      "Sont surtout des moyens prophylactiques comme le choix d'espèces résistantes ou la gestion de la densité de plantes au m²"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 226,
+    "q": "Les «médiateurs chimiques» sont :",
+    "options": [
+      "Des adjuvants",
+      "Des moyens biologiques de lutte biologique",
+      "Des techniciens conseillers du service régional de l'alimentation"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 227,
+    "q": "Les parcelles à traiter sont éloignées de l'exploitation, il faudra faire un remplissage du pulvérisateur sur place. Quelles sont les bonnes pratiques à respecter ?",
+    "options": [
+      "Utiliser une citerne de réapprovisionnement d'eau claire et des produits séparés",
+      "Utiliser une citerne de réapprovisionnement de bouillie préparée",
+      "Utiliser un point d'eau public à proximité"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 228,
+    "q": "Les phosphates ferriques :",
+    "options": [
+      "Sont des substances de base",
+      "Sont des produits qualifiés à faibles risques",
+      "Sont des produits utilisables en agriculture biologique",
+      "Peuvent être utilisées contre les limaces"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 229,
+    "q": "Les phosphates ferriques, qualifiés comme produits à faible risque peuvent être utilisés contre :",
+    "options": [
+      "Les otiorhynques",
+      "Les limaces",
+      "Les tipules",
+      "Les nématodes"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 230,
+    "q": "Les phéromones utilisées en confusion sexuelle sont :",
+    "options": [
+      "Des solutions alternatives aux fongicides",
+      "Des Substances de Défense Naturelle",
+      "Des produits  phytosanitaires de  Biocontrôle",
+      "Des adjuvants"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 231,
+    "q": "Les produits de biocontrôle sont :",
+    "options": [
+      "Des produits chimiques de synthèse",
+      "Des macro-organismes",
+      "Des micro-organismes",
+      "Des produits d'origine naturelle"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 232,
+    "q": "Les produits de Biocontrôle sont classés en différentes catégories. Quelles sont les bonnes réponses ?",
+    "options": [
+      "Des solutions liquides",
+      "Des macro-organismes",
+      "Des produits d’origine naturelle",
+      "Des bio-solubles"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 233,
+    "q": "Les produits phytopharmaceutiques doivent être stockés :",
+    "options": [
+      "Dans une armoire ou un local réservé à ce seul usage",
+      "Dans leur emballage d’origine",
+      "Dans un local sur des étagères en bois",
+      "Les plus gros contenants dans les parties basses"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 234,
+    "q": "Les pucerons peuvent provoquer :",
+    "options": [
+      "Des galeries à l'intérieur de la feuille",
+      "Une apparition d' exsudats",
+      "Une déformation des feuilles",
+      "Des morsures marginales des feuilles"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 235,
+    "q": "Les purins et décoctions sont des Stimulateurs des Défenses Naturelles de la plante (SDN). Quels sont leurs modes d'action ?",
+    "options": [
+      "Ils enrichissent la plante en éléments nutritifs",
+      "Ils attirent les auxiliaires",
+      "Ils aident la plante à se défendre contre les insectes et les maladies"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 236,
+    "q": "Les solutions suivantes figurent-elles parmi les systèmes autorisés pour gérer les effluents phytopharmaceutiques ?",
+    "options": [
+      "Un procédé par pouzzolane",
+      "Un bac avec lit biologique",
+      "Un système à déshydratation naturelle",
+      "Un procédé par osmose",
+      "Un procédé par solarisation"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 237,
+    "q": "Les substances de base peuvent être :",
+    "options": [
+      "Des substances chimiques de synthèse",
+      "Des micro-organismes",
+      "Des substances naturelles",
+      "Des macro-organismes"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 238,
+    "q": "Les thrips peuvent provoquer :",
+    "options": [
+      "Un jaunissement du feuillage",
+      "Des piqures sur le feuillage",
+      "Une apparition d'exsudats",
+      "Des pourritures de racines"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 239,
+    "q": "Les traitements insecticides huileux ont un mode d’action :",
+    "options": [
+      "Par asphyxie",
+      "Par contact",
+      "Systémique",
+      "Pénétrant"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 240,
+    "q": "Les Zones Non Traitées (ZNT) sont des zones où le traitement est :",
+    "options": [
+      "Autorisé",
+      "Interdit",
+      "Interdit si les produits portent la mention AQUA"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 241,
+    "q": "Les éliciteurs sont :",
+    "options": [
+      "Des molécules permettant de réduire les dosages homologués",
+      "Des micro-organismes utilisables en Agriculture Biologique",
+      "Des macro-organismes prédateurs des ennemis des cultures",
+      "Des substances qui permettent de stimuler les défenses naturelles des végétaux"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 242,
+    "q": "Les éliciteurs sont des molécules qui permettent :",
+    "options": [
+      "De détruire les adventices",
+      "De détruire les ravageurs des cultures",
+      "De stimuler les Défenses Naturelles des Végétaux",
+      "De stimuler la croissance des végétaux"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 243,
+    "q": "Les équipements de protection après nettoyage doivent être placés :",
+    "options": [
+      "Dans un local prévu à cet effet",
+      "Dans n’importe quel local",
+      "Dans le local où sont stockés les produits phytopharmaceutiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 244,
+    "q": "Les équipements individuels de protection (EPI) sont :",
+    "options": [
+      "A la charge du salarié",
+      "A la charge de l’employeur",
+      "A la charge de la compagnie d’assurance"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 245,
+    "q": "Lesquels de ces contenants sont adaptés pour stocker les produits phytopharmaceutiques ?",
+    "options": [
+      "Une étagère dans l'atelier",
+      "Une armoire phyto homologuée",
+      "Un bac dans la salle de traite"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 246,
+    "q": "L'hygrométrie est un facteur essentiel dans la réussite des traitements phytosanitaires et pour limiter les pollutions diffuses. Quelles sont les 2 propositions justes ?",
+    "options": [
+      "Une faible hygrométrie (<40%)  favorise la pénétration du produit sur des fibres desséchées",
+      "Une faible hygrométrie favorise la volatilisation des gouttelettes",
+      "Une forte hygrométrie (>60%) favorise la pénétration des produits sur des fibres détendues",
+      "Une forte hygrométrie favorise la volatilisation des gouttelettes"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 247,
+    "q": "L'IFT correspond à :",
+    "options": [
+      "Indice de Fréquence de Traitement",
+      "Insecticide Fongicide Traitement",
+      "Insecte Fortement Tueur",
+      "Impôt sur la Fréquence de Traitement"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 248,
+    "q": "Lors de la phase de remplissage du pulvérisateur, la réglementation impose de protéger le réseau d'eau potable, parmi ces propositions lesquelles peuvent être efficaces ?",
+    "options": [
+      "Une cuve de rinçage",
+      "Un volucompteur",
+      "Un clapet anti-retour sur l'arrivée d'eau",
+      "Une cuve tampon"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 249,
+    "q": "Lors de la préparation d'une bouillie, il est préférable :",
+    "options": [
+      "D’être dans le lieu de stockage des produits phytopharmaceutiques",
+      "D’être à l'extérieur près d'un robinet d'eau courante muni d'un clapet anti-retour sur un sol imperméable",
+      "D’être sous un hangar"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 250,
+    "q": "Lors de la pulvérisation un matériel bien réglé permet :",
+    "options": [
+      "De ne pas porter les EPI",
+      "D'adapter la juste dose d'application",
+      "De ne pas appliquer le délai de rentrée"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 251,
+    "q": "Lors du remplissage d'un pulvérisateur, l'opérateur doit être équipé de :",
+    "options": [
+      "Gants homologués",
+      "Lunettes homologuées",
+      "Bonnet homologué",
+      "Bottes homologuées",
+      "Tablier ou combinaison étanche homologué"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 252,
+    "q": "Lors du renouvellement du stock d'Equipement de Protection Individuelle, en quelle matière doivent être les gants de protection contre les produits chimiques ?",
+    "options": [
+      "En latex",
+      "En vinyle",
+      "En nitrile ou néoprène"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 253,
+    "q": "Lors d’un traitement phytopharmaceutique, une buse du pulvérisateur s'avère bouchée :",
+    "options": [
+      "On arrête le traitement et on souffle dans la buse bouchée",
+      "On arrête le traitement et on change la buse",
+      "On pense à changer la buse au traitement suivant"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 254,
+    "q": "Lors d'une manipulation de produit phytopharmaceutique, une personne a subi une contamination accidentelle. De quoi faut-il se munir pour alerter les secours ?",
+    "options": [
+      "De l'étiquette du produit phytopharmaceutique",
+      "De la carte vitale de l'accidenté",
+      "Du groupe sanguin de l'accidenté"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 255,
+    "q": "Lors d'une préparation de la bouillie dans une parcelle, vous vous éclaboussez accidentellement le visage. Que devez vous faire ?",
+    "options": [
+      "Je m'essuie les mains et le visage avec un chiffon",
+      "Je me rince les mains et le visage avec l'eau de la cuve",
+      "Je me rince les mains et le visage avec l'eau du réservoir de rinçage",
+      "Je me rince les mains et le visage avec l'eau du réservoir du lave main"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 256,
+    "q": "Lorsque je prépare la bouillie, j'ai l'obligation de :",
+    "options": [
+      "Me placer sur une aire de remplissage",
+      "Préparer en absence de vent",
+      "Protéger le réseau d'approvisionnement en eau"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 257,
+    "q": "Lorsque je prépare la bouillie, j'ai l'obligation de :",
+    "options": [
+      "Ajuster la dureté de l'eau",
+      "Maîtriser le volume de bouillie",
+      "Brûler les emballages",
+      "Utiliser des produits ayant une AMM"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 258,
+    "q": "Lorsque vous effectuez un inventaire des produits phytopharmaceutiques du local de stockage, quel document vous permet de connaître les",
+    "options": [
+      "Autorisations de Mise sur le Marché valides ?",
+      "Étiquette du produit",
+      "N'importe quel Index phytosanitaire ACTA",
+      "Le site E-phy de l'ANSES",
+      "La presse spécialisée"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 259,
+    "q": "Lorsqu’un produit phytopharmaceutique comporte une mention spécifique relative aux pollinisateurs, cela signifie :",
+    "options": [
+      "Qu’elle a un pouvoir attractif sur les abeilles",
+      "Que son emploi est autorisé pendant la période de floraison ou d'exsudation de miellat en dehors de la présence des abeilles",
+      "Que son emploi est autorisé pendant la période de floraison ou d'exsudation de miellat indépendamment de la présence des abeilles"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 260,
+    "q": "Lorsqu’un produit phytopharmaceutique comporte une mention spécifique relative aux pollinisateurs, cela signifie :",
+    "options": [
+      "Qu’elle a un pouvoir attractif sur les abeilles",
+      "Que son emploi est autorisé pendant la période de floraison ou/et d'exsudation de miellat en dehors de la présence des abeilles",
+      "Que son emploi est autorisé pendant la période de floraison ou/et d'exsudation de miellat indépendamment de la présence des abeilles"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 261,
+    "q": "L'utilisation de nématodes permet :",
+    "options": [
+      "De réguler la population d'auxiliaires",
+      "De lutter contre des ravageurs",
+      "De lutter contre une maladie bactérienne",
+      "De lutter contre une maladie fongique"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 262,
+    "q": "L’utilisation des auxiliaires est importante dans les stratégies de lutte contre les bioagresseurs. Un auxiliaire est :",
+    "options": [
+      "Un organisme vivant qui se développe dans le sol près des racines des plantes",
+      "Un être vivant prédateur ou parasite des ennemis des plantes cultivées",
+      "Un être vivant prédateur ou parasite des plantes cultivées"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 263,
+    "q": "L'utilisation des produits phytopharmaceutiques peut entraîner un déséquilibre biologique dans la zone traitée. Pour atténuer ce problème, que faut-il faire ?",
+    "options": [
+      "Utiliser des produits à large spectre d'action",
+      "Utiliser des produits sélectifs",
+      "Utiliser les produits à la dose homologuée"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 264,
+    "q": "L'utilisation du phosphate ferrique comme anti-limace classé sur la liste des produits de Biocontrôle est une alternative efficace aux anti-limaces chimiques. Quel est son mode d'action ?",
+    "options": [
+      "Il entraîne une déshydratation mortelle des limaces",
+      "Il entraîne l'arrêt de l'alimentation puis la mort des limaces",
+      "Son odeur repousse les attaques de limaces"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 265,
+    "q": "L'utilisation du phosphate ferrique comme anti-limace classé sur la liste des produits de Biocontrôle est une alternative efficace aux anti-limaces chimiques. Quel est son mode d'action ?",
+    "options": [
+      "Il bloque la mâchoire de la limace",
+      "Il entraîne l'arrêt de l'alimentation puis la mort des limaces",
+      "Son odeur repousse les attaques de limaces"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 266,
+    "q": "L'étalonnage des pulvérisateurs est :",
+    "options": [
+      "Fait une fois pour toute",
+      "Réalisé matériel par matériel",
+      "Fait en fonction de la buse adaptée sur le pulvérisateur"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 267,
+    "q": "L’étalonnage d’un pulvérisateur vous donne un débit de 500 ml pour une surface de 10m², ceci équivaut à :",
+    "options": [
+      "300 l/ha",
+      "400 l/ha",
+      "500 l/ha",
+      "600 l/ha"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 268,
+    "q": "L’étalonnage d’un pulvérisateur vous donne un débit de 500 ml pour une surface de 10m², ceci équivaut à :",
+    "options": [
+      "50 l/ha",
+      "100 l/ha",
+      "500 l/ha",
+      "1000 l/ha"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 269,
+    "q": "L’étalonnage permet :",
+    "options": [
+      "De connaitre avec précision sa consommation de bouillie",
+      "De mesurer la surface à traiter",
+      "De nettoyer son matériel"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 270,
+    "q": "Où peut-on identifier la catégorie de la cabine filtrante ?",
+    "options": [
+      "Sur le certificat d'assurance",
+      "Sur la carte grise de l'engin",
+      "Sur le tracteur"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 271,
+    "q": "Par dérogation, il est possible de vendre des produits professionnels à un particulier pour le compte d’un utilisateur professionnel à condition de fournir :",
+    "options": [
+      "Un contrat ou une attestation de délégation à un tiers, signé des deux parties",
+      "La copie du Certiphyto du professionnel",
+      "La copie de carte d’identité du professionnel"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 272,
+    "q": "Parmi ces informations, lesquelles figurent sur les étiquettes de produits ?",
+    "options": [
+      "Usages et doses autorisés",
+      "Nature de la gamme (EAJ/professionnel)",
+      "Mention « biodégradable »"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 273,
+    "q": "Parmi ces insectes lesquels sont des auxiliaires utiles contre les pucerons ?",
+    "options": [
+      "Larve de syrphe",
+      "Nématode",
+      "Acariens",
+      "Larve de chrysope"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 274,
+    "q": "Parmi ces maladies faisant aujourd'hui l'objet d'un tableau de maladie professionnelle, quelle est celle imputable aux produits phytosanitaires ?",
+    "options": [
+      "La maladie de Lyme",
+      "La maladie de Parkinson",
+      "Les affections péri articulaires"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 275,
+    "q": "Parmi ces propositions lesquelles sont des produits de Biocontrôle ?",
+    "options": [
+      "L'acide pélargonique",
+      "Les phéromones de confusion sexuelle",
+      "La tavelure"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 276,
+    "q": "Parmi ces propositions, quels sont les numéros à composer en cas d'urgence ?",
+    "options": [
+      "18",
+	  "0800 887 887",
+	  "112"
+    ],
+    "answers": [
+      0,
+	  2
+    ]
+  },
+  {
+    "id": 277,
+    "q": "Parmi ces propositions, quels sont les organismes à composer en cas d'urgence ?",
+    "options": [
+      "Numéro Phyt'attitude",
+      "Le Samu",
+      "Les pompiers"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 278,
+    "q": "Parmi ces situations de travail liées à l'utilisation de produits phytosanitaires, laquelle est la plus exposante ?",
+    "options": [
+      "La préparation de la bouillie",
+      "Le nettoyage du pulvérisateur",
+      "Le transport des produits phytosanitaires"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 279,
+    "q": "Parmi ces systèmes de protection quel est celui que le plan ECOPHYTO souhaite  généraliser ?",
+    "options": [
+      "La lutte biologique",
+      "La lutte intégrée",
+      "L’agroforesterie",
+      "La Phytothérapie"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 280,
+    "q": "Parmi cette liste, lesquels sont des produits de Biocôntrole ?",
+    "options": [
+      "Les engrais organiques",
+      "Les phéromones",
+      "Les macro-organismes"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 281,
+    "q": "Parmi les abréviations suivantes, quelles sont celles qui concernent les produits phytosanitaires ?  :",
+    "options": [
+      "CGR",
+      "AMM",
+      "PPM",
+      "ZNT"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 282,
+    "q": "Parmi les abréviations suivantes, quelles sont celles qui concernent les produits phytosanitaires  :",
+    "options": [
+      "LMR",
+      "DAR",
+      "PPM",
+      "ZNT",
+      "AMM"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 283,
+    "q": "Parmi les affirmations suivantes concernant les produits de biocontrôle, laquelle est exacte ?",
+    "options": [
+      "Les substances de base font partie des produits de biocontrôle",
+      "Aucun produit de biocontrôle n'a besoin d'AMM",
+      "Ils peuvent être en vente libre dans les magasins \"grand public\""
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 284,
+    "q": "Parmi les affirmations suivantes concernant les substances de base, lesquelles sont exactes ?",
+    "options": [
+      "Les substances de base ne sont pas soumises à AMM",
+      "Leur inscription sur la liste européenne, une fois faite, a une durée de 20 ans",
+      "Les perturbateurs endocriniens peuvent être inscrits sur la liste des substances de base",
+      "Elles peuvent être en vente libre"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 285,
+    "q": "Parmi les affirmations suivantes, lesquelles sont exactes . Le Bulletin de Santé du Végétal :",
+    "options": [
+      "Est disponible gratuitement sur Internet",
+      "Est disponible sur Internet grâce à un abonnement payant",
+      "Existe en différentes versions adaptées aux différentes cultures",
+      "Est un bulletin prescrivant les produits phytosanitaires les plus appropriés"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 286,
+    "q": "Parmi les dispositifs suivants, lesquels me permettent d'éviter les débordements de la cuve ?",
+    "options": [
+      "Je surveille le remplissage en permanence",
+      "Un clapet antiretour",
+      "Une potence",
+      "Un volucompteur",
+      "Un colorant dans la cuve"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 287,
+    "q": "Parmi les facteurs climatiques cités ci-dessous, identifiez celui qui peut aggraver la contamination  de l’opérateur ?",
+    "options": [
+      "La chaleur",
+      "Le froid",
+      "La pluie"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 288,
+    "q": "Parmi les facteurs suivants quels sont ceux qui aggravent l'exposition aux produits phytos  :",
+    "options": [
+      "L'incident technique sur le pulvérisateur",
+      "La contamination via des éléments souillés<br />",
+      "La lecture de l'étiquette"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 289,
+    "q": "Parmi les insectes suivants, lesquels sont des auxiliaires ?",
+    "options": [
+      "Chrysope",
+      "Syrphe",
+      "Aleurode",
+      "Thrips"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 290,
+    "q": "Parmi les insectes suivants, lesquels sont des auxiliaires ?",
+    "options": [
+      "Syrphe",
+      "Chrysope",
+      "Otiorhynque",
+      "Aleurode"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 291,
+    "q": "Parmi les pratiques suivantes, lesquelles peuvent augmenter les risques de phytotoxicité ?",
+    "options": [
+      "La mauvaise utilisation d'adjuvants extemporanés",
+      "La pulvérisation en grosses gouttelettes",
+      "La pulvérisation à température élevée"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 292,
+    "q": "Parmi les pratiques suivantes, lesquelles peuvent augmenter les risques de phytotoxicité ?",
+    "options": [
+      "L'utilisation de coformulants extemporanés",
+      "Le surdosage",
+      "La pulvérisation bas-volume",
+      "Une pulvérisation à vitesse élevée"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 293,
+    "q": "Parmi les propositions suivantes, laquelle est exacte ?",
+    "options": [
+      "La dose homologuée correspond à la dose maximale autorisée",
+      "La dose préconisée est une dose légèrement supérieure à la dose homologuée",
+      "La dose plancher est la dose minimale à utiliser"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 294,
+    "q": "Parmi les propositions suivantes, laquelle relève de la lutte biologique ?",
+    "options": [
+      "Un lâcher de prédateurs",
+      "Un lâcher des femelles stérilisées",
+      "Une pulvérisation de bouillie bordelaise"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 295,
+    "q": "Parmi les propositions suivantes, lesquelles sont concernées par une Zone Non traitée cours d'eau (ZNT) ?",
+    "options": [
+      "Une mare répertoriée BCAE",
+      "Un cours d'eau intermittent répertorié BCAE",
+      "Un fossé intermittent non répertorié BCAE"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 296,
+    "q": "Parmi les propositions suivantes, lesquelles sont exactes ?",
+    "options": [
+      "La dose homologuée correspond à la dose maximale autorisée",
+      "La dose préconisée est une dose légèrement supérieure à la dose homologuée",
+      "La dose préconisée est la dose adaptée (proposée par le fabricant) en fonction de critères tels que le stade des adventices, l’hygrométrie, etc."
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 297,
+    "q": "Parmi les propositions suivantes, lesquelles sont vraies ?",
+    "options": [
+	  "Dans un véhicule routier, on peut transporter jusqu'à 100kg de produits phytopharmaceutiques s'ils sont conditionnés en emballage d’une contenance égale ou inférieure à 20 litres",
+      "Dans un véhicule routier, on peut transporter jusqu'à 50kg de produits phytopharmaceutiques s'ils sont conditionnés en emballage d’une contenance égale ou inférieure à 20 litres",
+      "Dans un véhicule agricole, on peut transporter jusqu'à 1t de produits phytopharmaceutiques s'ils sont conditionnés en emballage d’une contenance égale ou inférieure à 20 litres",
+      "Dans un véhicule agricole, on peut transporter jusqu'à 2t de produits phytopharmaceutiques s'ils sont conditionnés en emballage d’une contenance égale ou inférieure à 20 litres"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 298,
+    "q": "Parmi les propositions suivantes, lesquelles vous semblent pertinentes pour identifier les risques de pollution de l'environnement par les produits phytopharmaceutiques ?",
+    "options": [
+      "La texture du sol",
+      "Les résidus de récolte du précédent cultural",
+      "Le pH du sol",
+      "La présence de cours d'eau en bordure de parcelle"
+    ],
+    "answers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 299,
+    "q": "Parmi les rubriques suivantes, lesquelles trouve t-on dans une fiche de données de sécurité ?",
+    "options": [
+      "Rubrique \"Impact sur la vie du sol\" (rubrique 17)",
+      "rubrique \"premiers secours\" (rubrique 4)",
+      "rubrique \"protection individuelle\" (rubrique 8)",
+      "rubrique \"impact sur les organismes aquatiques\" (rubrique 32)"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 300,
+    "q": "Parmi les réponses suivantes, indiquez celles qui répondent à la définition d'effluents phytopharmaceutiques.",
+    "options": [
+      "Les eaux de rinçage de la cuve du pulvérisateur",
+      "Les eaux de lavage du matériel de pulvérisation",
+      "Les huiles de vidange",
+      "Les fluides du circuit hydraulique du pulvérisateur"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 301,
+    "q": "Peut-on transporter par la route de la bouillie phytosanitaire dans la cuve du pulvérisateur ?",
+    "options": [
+	  "Oui, il n’y a pas de restriction",
+      "Non cela nécessite une formation spécifique pour le transport de matière dangereuse",
+      "Cela dépend du volume de la bouillie"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 302,
+    "q": "Pour améliorer la dégradation des produits phytopharmaceutiques dans le sol, donc limiter des pollutions, il est important :",
+    "options": [
+      "D'apporter de la chaux en sol basique",
+      "De limiter l'apport d'amendements organiques",
+      "De réduire l'aération du sol",
+      "D'incorporer les résidus de récolte broyés"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 303,
+    "q": "Pour diminuer l'utilisation des Produits Phytosanitaires, un agriculteur peut :",
+    "options": [
+      "Faire de la monoculture",
+      "Introduire une légumineuse dans sa rotation",
+      "Observer régulièrement ses cultures"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 304,
+    "q": "Pour déterminer le volume d'eau nécessaire à la préparation de la bouillie, il faut prendre en compte :",
+    "options": [
+      "La superficie à traiter",
+      "la vitesse du vent",
+      "La dose hectare"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 305,
+    "q": "Pour la mise en place de la lutte intégrée il faut :",
+    "options": [
+      "Des rotations longues",
+      "Plus de  monoculture",
+      "L'utilisation systématique des phytosanitaires",
+      "Uniquement des produits de Biocontrôle"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 306,
+    "q": "Pour la protection des mains lors de la préparation d'une bouillie, il est nécessaire :",
+    "options": [
+      "D'employer des gants de travail en tissu",
+      "D'employer des gants en nitrile",
+      "D'employer des gants ménagers"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 307,
+    "q": "Pour le bon entretien de ma protection respiratoire, je dois stocker mes cartouches filtrantes, après séchage, dans :",
+    "options": [
+      "Un emballage hermétique",
+      "Le vestiaire",
+      "La camionnette de l'exploitation"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 308,
+    "q": "Pour le renouvellement de son CIPP il faut faire la demande :",
+    "options": [
+      "9 mois minimum avant la date d'expiration du certificat",
+      "6 mois avant la date d'expiration du certificat",
+      "3 mois avant la date d'expiration du certificat",
+      "1 mois avant la date d'expiration du certificat"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 309,
+    "q": "Pour les produits professionnels et sans avis contraire indiqué dans l'AMM, le Délai Avant Récolte est au minimum de :",
+    "options": [
+      "1 jour",
+      "2 jours",
+      "3 jours",
+      "4 jours"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 310,
+    "q": "Pour limiter la dérive, on peut :",
+    "options": [
+      "Utiliser des buses anti-dérive",
+      "Utiliser un adjuvant anti-dérive",
+      "Augmenter la pression de pulvérisation",
+      "Préférer les produits en suspension concentrée"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 311,
+    "q": "Pour limiter les résistances des maladies cryptogamiques, il est conseillé de :",
+    "options": [
+      "Choisir des variétés tolérantes aux maladies",
+      "Alterner les modes d'action des fongicides",
+      "Limiter le nombre d'applications annuelles",
+      "Associer des substances actives de la même famille chimique"
+    ],
+    "answers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 312,
+    "q": "Pour limiter l'usage des désherbants, la technique du faux-semis consiste à :",
+    "options": [
+      "Semer une plante nettoyante avant la culture définitive",
+      "Semer une plante attirant les ravageurs autour de la culture principale",
+      "Semer une plante repoussant les ravageurs en même temps que la culture principale",
+      "Préparer le sol, laisser pousser les adventices puis les détruire avant l'implantation de la culture définitive"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 313,
+    "q": "Pour pouvoir être intégré dans une filière d’élimination d’EVPP (emballages vides de produits phytopharmaceutiques), un emballage doit être :",
+    "options": [
+	  "Vidé de son contenu",
+      "Rincé au minimum 3 fois et égoutté,",
+      "Rempli d’eau claire"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 314,
+    "q": "Pour protéger une culture contre les limaces, on peut utiliser :",
+    "options": [
+      "Des nématodes carnivores",
+      "des Chrysopes",
+      "Du Bacillus thuringiensis",
+      "Des acariens spécifiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 315,
+    "q": "Pour renseigner sur la toxicité d'un produit phytopharmaceutique, on conseille de consulter :",
+    "options": [
+      "L'étiquette du produit",
+      "Le bon de livraison",
+      "Le site e-phy",
+      "La FDS"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 316,
+    "q": "Pour rincer les bidons de produits phytopharmaceutiques, on conseille à un applicateur de :",
+    "options": [
+      "Rincer le bidon trois fois à l'eau claire et mettre l'eau de rinçage dans le pulvérisateur",
+      "Rincer le bidon trois fois avec de la bouillie et mettre l'eau de rinçage dans le pulvérisateur",
+      "Rincer le bidon deux fois à l'eau claire et mettre l'eau de rinçage dans un récipient adapté",
+      "Rincer le bidon une fois à l'eau claire et mettre l'eau de rinçage dans le pulvérisateur"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 317,
+    "q": "Pour réduire la Zone Non Traitée de 20 ou 50 m à 5 m en pratique, quelles sont les conditions à respecter ?",
+    "options": [
+      "Disposer d'une bande enherbée d'au moins 5 mètres en continu et en contiguë de la hauteur de la culture en place ou d'une haie",
+      "Enregistrer les applications effectuées sur la ZNT",
+      "Enregistrer les applications effectuées sur la parcelle",
+      "Utiliser des buses antidérive"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 318,
+    "q": "Pour se protéger des produits phytopharmaceutiques lors du remplissage, les gants peuvent être en :",
+    "options": [
+      "Latex",
+      "Nitrile",
+      "Caoutchouc",
+      "Néoprène"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 319,
+    "q": "Pour un traitement phytopharmaceutique la dose maximale à appliquer est :",
+    "options": [
+      "La dose homologuée",
+      "La dose conseillée",
+      "La dose à diluer dans une quantité d’eau fixée"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 320,
+    "q": "Pour éliminer les EPI (Equipements de Protection Individuelle) usagés je suis autorisé à :",
+    "options": [
+      "Les brûler",
+      "Les enfouir dans le champ",
+      "Les mettre dans le circuit des ordures ménagères",
+      "Les faire éliminer par une entreprise spécialisée dans l'élimination des déchets souillés par les produits chimiques"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 321,
+    "q": "Pour éviter l’apparition des maladies, je peux :",
+    "options": [
+      "Choisir des variétés ou cultivars résistants aux maladies",
+      "Equilibrer la fertilisation",
+      "Arroser le plus souvent possible"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 322,
+    "q": "Pour éviter le débordement de ma cuve dans la cour du client :",
+    "options": [
+      "Je mange mon casse-croûte pendant le remplissage",
+      "Je verse un verre de gazole pour éviter la mousse",
+      "Je surveille attentivement le remplissage"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 323,
+    "q": "Pour être certifiée en vue de son agrément, une entreprise de Travaux et Services doit justifier de :",
+    "options": [
+      "1 personne certifiée pour 10 personnes en contact avec les produits phytopharmaceutiques",
+      "La certification de tous les applicateurs de les produits phytopharmaceutiques",
+      "Au moins une personne certifiée \"Décideur Travaux et services\""
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 324,
+    "q": "Préparer une solution à  5 % équivaut à :",
+    "options": [
+      "Mettre 5 litres de produit phytopharmaceutique pour 95 litres d'eau",
+      "Mettre 5 litres de produit phytopharmaceutique pour 500 litres d'eau",
+      "Mettre 0,5 litre de produit phytopharmaceutique pour 100 litres d'eau",
+      "Mettre 5 litres de produit phytopharmaceutique pour 100 litres d'eau"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 325,
+    "q": "Quand on applique un produit phytopharmaceutique, la vitesse du vent ne doit pas dépasser  :",
+    "options": [
+      "9 km/h",
+      "19 km/h",
+      "1 sur l'échelle de Beaufort",
+      "3 sur l'échelle de Beaufort"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 326,
+    "q": "Que doit présenter le conseiller dans la fiche de préconisations délivrée à l'agriculteur  ?",
+    "options": [
+      "Un diagnostic des parcelles concernées",
+      "Un diagnostic de toutes les parcelles visitées ou non visitées",
+      "La référence au dernier BSV",
+      "Le précédent  rendement de la parcelle"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 327,
+    "q": "Que faire des gants portés pendant un traitement phytopharmaceutique (gants non jetables) ?",
+    "options": [
+      "Les laver avec de l'eau et du savon avant de les retirer",
+      "Les retirer sans précaution particulière",
+      "Les ranger dans la cabine du tracteur en attendant la prochaine utilisation"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 328,
+    "q": "Que fait-on des Equipements de Protection Individuelle (EPI) de traitements usagés ?",
+    "options": [
+      "On les stocke en attendant la collecte des déchets spéciaux (Adivalor par exemple)",
+      "On les brûle",
+      "On les enterre"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 329,
+    "q": "Que faut-il pour que la cabine d’un tracteur protège efficacement des vapeurs ?",
+    "options": [
+      "Être en légère surpression",
+      "Retirer le filtre après chaque traitement et le ranger à l’abri de l’air",
+      "Ne pas dépasser une vitesse de 12km/heure"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 330,
+    "q": "Que mesure la DT 50 (ou ½ vie) d'une substance active ?",
+    "options": [
+      "La faculté de la substance active à être retenue par le sol",
+      "Le temps nécessaire à la dégradation partielle de la substance active",
+      "La faculté de la substance active à être mise en solution dans l’eau",
+      "La toxicité de la substance active vis à vis de l’environnement"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 331,
+    "q": "Que permet le filtre d'une cabine de catégorie 4 ?",
+    "options": [
+	  "De filtrer les poussières, les aérosols et les vapeurs",
+      "De filtrer les poussières et les aérosols",
+      "De filtrer les poussières"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 332,
+    "q": "Que permet le respect du Délai Avant Récolte ?",
+    "options": [
+      "Réduire la toxicité pour les pollinisateurs",
+      "Assurer que les produits récoltés auront des teneurs en résidus inférieures aux LMR",
+      "Obtenir une dose d'utilisation conforme à la dose homologuée"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 333,
+    "q": "Que permet le respect du Délai Avant Récolte ?",
+    "options": [
+      "Protéger les abeilles",
+      "Récolter des produits conformes",
+      "Obtenir une dose d'utilisation conforme à la dose homologuée"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 334,
+    "q": "Que peut-on conseiller pour lutter contre la pyrale du maïs ?",
+    "options": [
+      "Broyer les résidus de récolte",
+      "Un herbicide de Biocontrôle",
+      "Des trichogrammes"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 335,
+    "q": "Que puis-je faire pour éviter la résistance des ravageurs à une substance active ?",
+    "options": [
+      "Privilégier les méthodes alternatives",
+      "Alterner systématiquement les substances voire familles chimiques des produits phytopharmaceutiques",
+      "Traiter avant l’apparition des ravageurs, en préventif"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 336,
+    "q": "Que signifie \"CMR\" ?",
+    "options": [
+      "Caustique Malléable et Résistant",
+      "Cancérigène Mutagène et Reprotoxique",
+      "Constituant Mortel et Reprotoxique"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 337,
+    "q": "Que signifie \"CMR\" ?",
+    "options": [
+      "Cumul Moyen Restant",
+      "Courbe Moyenne de Résistance",
+      "Cancérigène Mutagène et Reprotoxique"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 338,
+    "q": "Que signifie \"CMR\"?",
+    "options": [
+      "Cancérigène Mutagène et Reprotoxique",
+      "Certificat de Mutualisation de Risques",
+      "Chimique Mortel et Récurrent"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 339,
+    "q": "Que trouve-t-on dans le BSV d’une région ?",
+    "options": [
+      "Les éléments de situation phytosanitaire",
+      "La présence des auxiliaires",
+      "Les traitements préconisés"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 340,
+    "q": "Que veut dire EVPP ?",
+    "options": [
+      "Emballage vide de produit phytopharmaceutique",
+      "Entretien et vidange du pulvérisateur portable",
+      "Evaluation visuelle des populations de parasites",
+      "Evaporation variable des prairies permanentes"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 341,
+    "q": "Que veut dire PPNU ?",
+    "options": [
+      "Plus petite norme utile",
+      "Plus petit nombre d'utilisateurs",
+      "Produit phytopharmaceutique non utilisable",
+      "Poly-Phosphate Nitrate Urée"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 342,
+    "q": "Quel est le Délai de Rentrée des Personnes (DRP) suite à l’application d’un produit comportant la mention « Peut provoquer une allergie cutanée »",
+    "options": [
+      "12 h",
+      "24 h",
+      "48 h"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 343,
+    "q": "Quel est le délai maximal après la formation ou le test pour faire votre demande de certificat sur le site servicepublic.fr ?",
+    "options": [
+      "La semaine suivante uniquement",
+      "Avant 6 mois",
+      "Plus d'1 an"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 344,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé CMR ?",
+    "options": [
+      "6 heures",
+      "48 heures",
+      "24 heures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 345,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé H341 ?",
+    "options": [
+      "8 heures",
+      "48 heures",
+      "36 heures"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 346,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé H350 ?",
+    "options": [
+      "48 heures",
+      "8 heures",
+      "12 heures"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 347,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé H351 ?",
+    "options": [
+      "1 heure",
+      "8 heures",
+      "48 heures"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 348,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé H360 ?",
+    "options": [
+      "48 heures",
+      "Aucun",
+      "10 heures"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 349,
+    "q": "Quel est le délai minimum de rentrée sur une parcelle traitée avec un produit classé H362 ?",
+    "options": [
+      "48 heures",
+      "8 heures",
+      "Aucun"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 350,
+    "q": "Quel est le numéro d'appel Phyt'attitude ?",
+    "options": [
+      "0800 887 887"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 351,
+    "q": "Quel est le produit peu toxique et assez respectueux de l'environnement qui permet de lutter contre les limaces et les escargots  ?",
+    "options": [
+      "Les protéines Bt",
+      "Des nématodes parasites",
+      "Le phosphate de fer",
+      "Le pyrèthre"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 352,
+    "q": "Quel est le seuil de vitesse du vent au-delà duquel il est interdit de traiter :",
+    "options": [
+      "19 km / h",
+      "33 km /h",
+      "56 km / h"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 353,
+    "q": "Quel numéro de téléphone utile trouve t-on sur l'étiquette ?",
+    "options": [
+      "Numéro de l'INRA",
+      "Numéro du Ministère de l'Agriculture",
+      "Numéro de Phyt'attitude"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 354,
+    "q": "Quel numéro de téléphone utile trouve t-on sur l'étiquette ?",
+    "options": [
+      "Numéro de Phyt'attitude",
+      "Numéro de la MSA",
+      "Numéro de l'ACTA"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 355,
+    "q": "Quel sont les facteurs aggravant de la contamination  de l’opérateur ?",
+    "options": [
+      "Porter à la bouche des mains souillées",
+      "Téléphoner pendant le traitement",
+      "Effectuer un traitement de nuit"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 356,
+    "q": "Quelle caractéristique a un fongicide de contact ?",
+    "options": [
+      "Il pénètre dans le végétal",
+      "Il est lessivé quand il pleut",
+      "Il possède une longue persistance d’action même après une pluie"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 357,
+    "q": "Quelle catégorie de cabine est adaptée aux traitements phytosanitaires ?",
+    "options": [
+      "La catégorie 4",
+      "La catégorie grande protection",
+      "La catégorie premium"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 358,
+    "q": "Quelle catégorie de cabine est adaptée aux traitements phytosanitaires ?",
+    "options": [
+      "La catégorie Low cost",
+      "La catégorie 44",
+      "La catégorie 4"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 359,
+    "q": "Quelle conséquence a l’utilisation de la lutte intégrée ?",
+    "options": [
+      "Une réduction des traitements chimiques",
+      "Une diminution de la faune et de la flore utile",
+      "Une augmentation d’apparition de souches résistantes aux produits phytopharmaceutiques"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 360,
+    "q": "Quelle disposition réglementaire vise la limitation des pollutions diffuses liées à l'utilisation de produits phytopharmaceutiques ?",
+    "options": [
+      "Ne pas traiter si les petites branches sont agitées par le vent",
+      "La modulation de doses",
+      "La pratique du bas volume"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 361,
+    "q": "Quelle disposition réglementaire vise la limitation des pollutions ponctuelles liées à l'utilisation de produits phytopharmaceutiques ?",
+    "options": [
+      "Le délai avant récolte",
+      "Les délais de rentrée",
+      "La dilution des fonds de cuve"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 362,
+    "q": "Quelle définition donneriez vous de la lutte intégrée ? Une stratégie de lutte qui peut consister :",
+    "options": [
+      "A vendre les produits proposés par une seule et même firme phytopharmaceutique",
+      "A ne vendre aucun produit phytopharmaceutique",
+      "A vendre en priorité des produits phytopharmaceutique à base de micro-organismes",
+      "A proposer différentes méthodes de lutte"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 363,
+    "q": "Quelle est la principale conséquence d'une contamination aux fongicides dans l'environnement ?",
+    "options": [
+      "La destruction des abeilles",
+      "La destruction des champignons du sol",
+      "La destruction des plantes à fleur"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 364,
+    "q": "Quelle est la principale voie de pénétration  des produits phytopharmaceutiques dans l'organisme ?",
+    "options": [
+      "Par la peau",
+      "Par la voie digestive",
+      "Par la voie respiratoire"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 365,
+    "q": "Quelle est la propriété d’un herbicide dit «préventif» ?",
+    "options": [
+      "Il est à absorption foliaire de contact",
+      "Il est anti-germinatif",
+      "Il est à absorption foliaire et systémique"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 366,
+    "q": "Quelle méthode entre dans la lutte biologique ?",
+    "options": [
+      "Un lâcher de prédateurs ou de parasitoïdes",
+      "Un lâcher de femelles stérilisées",
+      "Une dispersion dans l’environnement des phéromones sexuelles"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 367,
+    "q": "Quelle quantité de produits phytopharmaceutiques peut on transporter dans un véhicule particulier ?",
+    "options": [
+	  "Aucune, c'est interdit",
+      "50 Kg",
+      "100 Kg",
+      "1 tonne"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 368,
+    "q": "Quelle quantité maximale de produits phytopharmaceutiques, classés dangereux au transport, peut-on transporter dans un véhicule routier sans être soumis à la réglementation ADR ?",
+    "options": [
+      "Aucune, c'est interdit",
+      "50 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "20 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "100 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 369,
+    "q": "Quelle quantité maximale de produits phytopharmaceutiques peut-on transporter avec un engin agricole sans être soumis à la réglementation sur le transport des matières dangereuses ?",
+    "options": [
+      "100 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "500 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres",
+      "1000 kg si les produits sont conditionnés dans des bidons d'une contenance inférieure ou égale à 20 litres"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 370,
+    "q": "Quelles actions aggravent l'exposition de l'opérateur ?",
+    "options": [
+      "Ecouter la radio dans sa cabine de tracteur",
+      "Boire pendant le traitement",
+      "Manger pendant le traitement"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 371,
+    "q": "Quelles actions aggravent l'exposition de l'opérateur",
+    "options": [
+      "Fumer pendant le traitement",
+      "Boire pendant le traitement",
+      "Prendre une douche après traitement"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 372,
+    "q": "Quelles dispositions réglementaires visent la limitation des pollutions diffuses liées à l'utilisation de produits phytopharmaceutiques ?",
+    "options": [
+      "L'interdiction de traiter avec un vent à plus de 19 Km/h",
+      "La réduction de doses",
+      "Les buses anti-dérive"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 373,
+    "q": "Quelles informations peut-on retrouver sur une Fiche de Données de Sécurité  ?",
+    "options": [
+      "Les informations liées à la toxicité d'un produit phytopharmaceutique",
+      "Les informations liées au stockage du produit concerné,",
+      "Les informations liées aux techniques d'application du produit concerné",
+      "Les informations liées aux doses et usages du produit concerné."
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 374,
+    "q": "Quelles populations sont autorisées à manipuler des produits phytosanitaires ?",
+    "options": [
+      "Les salariés du service de remplacement (tous produits)",
+      "Les femmes allaitantes",
+      "Les enfants de l'agriculteur"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 375,
+    "q": "Quelles sont les circonstances d'une intoxication conjonctivale ?",
+    "options": [
+      "En intervenant sur une buse bouchée avec une soufflette",
+      "En mangeant une pomme",
+      "En cas de rupture d'un tuyau de pulvérisateur lors du traitement"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 376,
+    "q": "Quelles sont les circonstances d'une intoxication conjonctivale ?",
+    "options": [
+      "En allumant une cigarette",
+      "En se frottant les yeux avec sa main gantée",
+      "En vidant le bidon dans la cuve du pulvérisateur"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 377,
+    "q": "Quelles sont les circonstances d'une intoxication cutanée ?",
+    "options": [
+      "En utilisant des gants de protection percés",
+      "En remplissant le cahier de traitement",
+      "En mangeant son sandwich"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 378,
+    "q": "Quelles sont les circonstances d'une intoxication cutanée ?",
+    "options": [
+      "En s'essuyant le front avec sa manche",
+      "En se mouchant",
+      "En respirant"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 379,
+    "q": "Quelles sont les circonstances d'une intoxication cutanée ?",
+    "options": [
+      "En s'essuyant le front avec sa manche",
+      "En se mouchant",
+      "En buvant"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 380,
+    "q": "Quelles sont les circonstances d'une intoxication digestive ?",
+    "options": [
+      "En s'essuyant le front",
+      "En mangeant son sandwich",
+      "En fumant une cigarette"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 381,
+    "q": "Quelles sont les circonstances d'une intoxication respiratoire ?",
+    "options": [
+      "En circulant dans une voiture vitre fermée le long d'une parcelle traitée",
+      "En remplissant le semoir de semences traitées",
+      "En pénétrant dans une cellule à grains en cours de traitement"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 382,
+    "q": "Quelles sont les conditions à prendre en compte en priorité avant d'effectuer un traitement ?",
+    "options": [
+      "La vitesse du vent",
+      "L'altitude",
+      "La température ambiante"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 383,
+    "q": "Quelles sont les obligations de l'employeur vis-à-vis des Equipements de Protection Individuelle (EPI) ?",
+    "options": [
+      "Former les salariés à leur utilisation",
+      "De les faire nettoyer par le salarié à domicile",
+      "De les faire vérifier régulièrement"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 384,
+    "q": "Quelles sont les principales informations à vérifier lors du renouvellement du stock de gants de protection contre les produits chimiques ?",
+    "options": [
+      "La taille",
+      "La longueur des manchettes",
+      "La couleur"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 385,
+    "q": "Quelles sont les techniques qui favorisent les phénomènes de résistance ?",
+    "options": [
+      "Utiliser toujours les mêmes substances  actives",
+      "Appliquer toujours avec le même volume de bouillie",
+      "Utiliser toujours les mêmes spécialités commerciales",
+      "Traiter toujours avec le même taux d'hygrométrie"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 386,
+    "q": "Quelles sont les vérifications obligatoires à réaliser avant un chantier d'application de  produits phytopharmaceutiques :",
+    "options": [
+      "Vérifier les coordonnées du chantier",
+      "Vérifier la contenance du pulvérisateur",
+      "Vérifier les conditions d'application (vent, humidité)",
+      "Vérifier si la surface à traiter est exacte"
+    ],
+    "answers": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 387,
+    "q": "Quels auxiliaires vont consommer les pucerons ?",
+    "options": [
+      "Le trichogramme",
+      "Coccinelle",
+      "Syrphes",
+      "L'encarsia"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 388,
+    "q": "Quels documents dois-je consulter pour connaître les cours d'eau pour lesquels je dois respecter la Zone Non Traitée ?",
+    "options": [
+      "L'arrêté préfectoral si il existe dans mon département",
+      "Le plan d'exploitation",
+      "En absence d'arrêté préfectoral, la carte IGN",
+      "Le cadastre",
+      "En absence d'arrêté préfectoral, le site geoportail.fr"
+    ],
+    "answers": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 389,
+    "q": "Quels peuvent être les effets immédiats d'une intoxication aux produits phytosanitaires ?",
+    "options": [
+      "Un décès",
+      "Une grossesse",
+      "Une perte de la vue"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 390,
+    "q": "Quels peuvent être les effets immédiats d'une intoxication aux produits phytosanitaires ?",
+    "options": [
+      "Des nausées",
+      "Un cancer",
+      "Des brûlures"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 391,
+    "q": "Quels peuvent être les effets à long terme d'une intoxication aux produits phytosanitaires ?",
+    "options": [
+      "Un cancer de la prostate",
+      "Une crise d'urticaire",
+      "Un accident Vasculaire Cérébral"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 392,
+    "q": "Quels peuvent être les effets à long terme d'une intoxication aux produits phytosanitaires ?",
+    "options": [
+      "Une contracture musculaire",
+      "Une maladie du sang type lymphome",
+      "Une fracture de la malléole"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 393,
+    "q": "Quels produits peuvent être transférés dans la cuve de stockage d’effluents phytopharmaceutiques ?",
+    "options": [
+      "Les fonds de cuves",
+      "Les produits périmés",
+      "Les eaux de débordement accidentel du pulvérisateur si elles ont été collectées"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 394,
+    "q": "Quels sont les avantages de la baisse des volumes de bouillie lors des traitements phytosanitaires ?",
+    "options": [
+      "Diminution du temps de travail",
+      "Diminution des impacts de la dureté de l'eau sur la bouillie",
+      "Technique compatible avec tous types de buses",
+      "Permet d'intervenir même dans des conditions météos défavorables"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 395,
+    "q": "Quels sont les avantages directs de la technique de semis d'une légumineuse sous couvert ?",
+    "options": [
+      "L'apport d'éléments fertilisants",
+      "Cette technique limite les adventices",
+      "Cette technique favorise la résistance des plantes"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 396,
+    "q": "Quels sont les documents de référence permettant de repérer les cours et étendues d’eau superficiels concernés par la ZNT ?",
+    "options": [
+      "Les ortho-photos IGN",
+      "La carte IGN au 1/25 000 ème la plus récente sur le secteur",
+      "Le guide vert Michelin",
+      "Une liste déterminée par arrêté préfectoral pour tenir compte de caractéristiques locales particulières"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 397,
+    "q": "Quels sont les facteurs aggravant la contamination  de l’opérateur ?",
+    "options": [
+      "Ne pas laver ou rincer ses bottes après un traitement",
+      "Remplacer une buse bouchée",
+      "Modifier la pression du pulvérisateur pendant le traitement"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 398,
+    "q": "Quels sont les facteurs climatiques favorisant la pénétration par voie cutanée ?",
+    "options": [
+      "S'habiller avec une combinaison de traitement neuve",
+      "Préparer la bouillie avec une main blessée",
+      "Transpirer à grosses gouttes lors du traitement"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 399,
+    "q": "Quels sont les facteurs favorisant la pénétration par voie cutanée ?",
+    "options": [
+      "Avoir les mains en contact avec un produit huileux",
+      "Ne pas se nettoyer les mains en fin de traitement",
+      "Préparer la bouillie avec des gants en nitrile"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 400,
+    "q": "Quels sont les facteurs qui favorisent la pénétration cutanée d'un produit phytosanitaire ?",
+    "options": [
+      "La chaleur",
+      "Une peau lésée avec une plaie",
+      "La présence d'une crème anti-UV"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 401,
+    "q": "Quels sont les facteurs qui favorisent la pénétration cutanée d'un produit phytosanitaire ?",
+    "options": [
+      "Le temps de contact du produit sur la peau",
+      "La vitesse du vent",
+      "la composition huileuse du produit"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 402,
+    "q": "Quels sont les facteurs qui favorisent les transferts de Produits phytosanitaires dans l’environnement ?",
+    "options": [
+      "Une forte hygrométrie",
+      "Une faible hygrométrie",
+      "Une faible température",
+      "Une forte température"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 403,
+    "q": "Quels sont les moyens de lutter contre les adventices dans une culture de colza en place si l'on exclut la lutte chimique ?",
+    "options": [
+      "La herse étrille",
+      "La houe rotative",
+      "La herse rotative",
+      "Le désherbage thermique"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 404,
+    "q": "Quels sont les produits concernés par la détention d'un agrément pour l'application en prestation de service ?",
+    "options": [
+      "Les Produits Phytosanitaires de synthèse",
+      "Les phytosanitaires produits de biocontrôle",
+      "Les Produits Phytosanitaires dont l'usage est homologué en agriculture biologique",
+      "Les substances de base"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 405,
+    "q": "Quels sont les produits phytopharmaceutiques qui sont soumis à la Redevance Pollution Diffuse ?",
+    "options": [
+      "Tous les produits phytopharmaceutiques",
+      "Certains produits phytopharmaceutiques en fonction des substances actives qu'ils contiennent",
+      "Tous les produits professionnels"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 406,
+    "q": "Quels sont les produits phytopharmaceutiques qu'une entreprise de travaux et services peut stocker dans son local :",
+    "options": [
+      "Des produits achetés par l'entreprise",
+      "Des produits achetés par le client dans le cadre d'une commande de prestation",
+      "Des produits achetés par un voisin, qui va les appliquer lui-même"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 407,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "La dose à appliquer à l'hectare",
+      "Les mesures de lutte contre l'incendie",
+      "Les caractéristiques des Equipements de Protection Individuelle (EPI)"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 408,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "L'adresse du fabriquant du produit",
+      "L'adresse du revendeur",
+      "Les informations relatives au transport"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 409,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "La composition du produit",
+      "L'adresse du fournisseur",
+      "Le prix du produit"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 410,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "Les caractéristiques des Equipements de Protection Individuelle (EPI)",
+      "Le délai avant récolte",
+      "La dose à appliquer à l'hectare"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 411,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "Le classement toxicologique du produit",
+      "Les propriétés physico-chimiques",
+      "Le nombre de traitement à l'année"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 412,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "Les mesures à prendre en cas de rejet accidentel",
+      "Les premiers secours",
+      "Le prix du produit"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 413,
+    "q": "Quels types d'informations peut-on retrouver sur la FDS ?",
+    "options": [
+      "La composition du produit",
+      "L'adresse du fabricant",
+      "Le prix du produit"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 414,
+    "q": "Quels éléments du pulvérisateur dois-je vérifier pendant la campagne de traitement ?",
+    "options": [
+      "L'état de la rampe",
+      "L'état de mes filtres",
+      "Le volume de la cuve",
+      "Le manomètre"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 415,
+    "q": "Quels éléments du pulvérisateur dois-je vérifier pendant la campagne de traitement ?",
+    "options": [
+      "Les points de graissage",
+      "L'état des filtres",
+      "La couleur de la cuve"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 416,
+    "q": "Qu'est ce qui entraîne une réduction des primes PAC en cas de contrôle de l'administration ?",
+    "options": [
+      "Le stockage temporaire de produits périmés dans l'armoire phyto",
+      "L'utilisation d'insecticide pendant la période de floraison de la végétation et en présence d'abeilles",
+      "L'utilisation de tout mélange contenant plus de 3 substances actives quelques soient ces substances",
+      "Le non respect du délai avant récolte"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 417,
+    "q": "Qu’est-ce que la persistance d’action d’un produit phytopharmaceutique ?",
+    "options": [
+      "La durée d’action dans une plante ou dans le sol",
+      "La durée de conservation dans un bidon",
+      "Le temps de pénétration dans la plante"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 418,
+    "q": "Qu'est-ce que le délai de rentrée après traitement ?",
+    "options": [
+      "Le délai minimum après lequel on peut consommer un fruit traité sans risque",
+      "C'est arrêter de traiter avant la nuit",
+      "Le délai minimum à respecter entre la fin du traitement et l'entrée dans la zone traitée"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 419,
+    "q": "Qu'est-ce que le réseau Phyt'attitude ?",
+    "options": [
+      "Le réseau des centres anti-poison",
+      "Le réseau de toxicovigilance agricole",
+      "Le réseau des Chambres d'Agriculture"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 420,
+    "q": "Qu'est-ce qu'un produit systémique ?",
+    "options": [
+      "Un produit qui agit sur des systèmes de pathogènes",
+      "Un produit qui peut circuler par la sève de la plante",
+      "Un produit qu'il faut systématiquement appliquer plusieurs fois"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 421,
+    "q": "Qui doit être informé du délai de rentrée par l'entreprise de travaux et services ?",
+    "options": [
+      "La DRAAF",
+      "Le fournisseur de produits phytopharmaceutiques",
+      "Le client",
+      "Toutes personnes susceptibles d'être en contact avec le produit appliqué"
+    ],
+    "answers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 422,
+    "q": "Réglémentairement, en cas de stockage préalable à l'application, les produits CMR doivent être :",
+    "options": [
+      "Placés dans un local ou une armoire fermée à clé",
+      "Séparés des autres produits à l'intérieur du local ou de l'armoire",
+      "Placés dans un local étanche et en rétention",
+      "Dans un local hors gel"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 423,
+    "q": "Selon la réglementation, dans quel type de local doivent être stockés les produits phytopharmaceutiques ?",
+    "options": [
+      "Dans un local quelconque",
+      "Dans un local aéré et non ventilé",
+      "Dans un local sans système de fermeture",
+      "Dans un local réservé à cet usage, aéré ou ventilé"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 424,
+    "q": "Si l'applicateur ne dispose pas de matériel équipé de cabine filtrée, vous lui demandez de porter le masque de protection respiratoire :",
+    "options": [
+      "Uniquement lors du traitement",
+      "Uniquement lors de la préparation du chantier et du traitement",
+      "Uniquement lors du nettoyage"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 425,
+    "q": "Si lors d’une manipulation, l’applicateur reçoit du produit phytopharmaceutique sur la peau, que faut-il faire ?",
+    "options": [
+      "Laver à grande eau la partie touchée",
+      "Essuyer avec un chiffon",
+      "Nettoyer avec de l’alcool à 90°C"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 426,
+    "q": "Si un client agriculteur achète le produit phytopharmaceutique , il doit réaliser les enregistrements règlementaires sur son cahier phytosanitaire :",
+    "options": [
+      "Oui",
+      "Non",
+      "Uniquement si la facture d'achat de produits  est supérieure à 1000 €"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 427,
+    "q": "Suite au contrôle du pulvérisateur, l'appareil doit comporter :",
+    "options": [
+      "Un identifiant lisible et indélébile et un label de sécurité",
+      "Un identifiant lisible et indélébile et une vignette de contrôle",
+      "Un identifiant lisible et détachable et une vignette de contrôle",
+      "Une vignette de contrôle et un label de sécurité"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 428,
+    "q": "Sur la parcelle d'un client, je dois réaliser un insecticide sur une culture en fleurs :",
+    "options": [
+      "Je traite sans hésiter",
+      "J'adapte mon heure de traitement si le produit utilisé comporte la mention \"Abeille\"",
+      "Je traite en ajoutant un anti-moussant dans la cuve",
+      "Je demande un avis technique supplémentaire avant de traiter",
+      "Vous ne faites pas le traitement par manque de temps"
+    ],
+    "answers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 429,
+    "q": "Sur le flacon d'un produit phytopharmaceutique, vous trouvez les indications suivantes : H319 et H360. De quoi s'agit-il ?",
+    "options": [
+      "Des mentions de danger du produit",
+      "Du numéro de mise en marché du produit (AMM)",
+      "Des conseils de prudence",
+      "Du numéro de lot"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 430,
+    "q": "Sur l'emballage d'un herbicide, il est stipulé qu'il s'agit d'un systémique foliaire, cela signifie que ce produit :",
+    "options": [
+      "Bloque la germination des graines",
+      "Agit uniquement par contact sur les feuilles",
+      "Traverse la cuticule puis circule dans toute la plante"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 431,
+    "q": "Sur l'emballage d'un herbicide, il est stipulé qu'il s'agit d'un systémique foliaire, cela signifie que ce produit :",
+    "options": [
+      "Bloque la germination des graines",
+      "Agit uniquement par contact sur les feuilles",
+      "Est absorbé par les feuilles puis circule dans toute la plante"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 432,
+    "q": "Sur l'emballage d'un produit phytopharmaceutique, vous voyez un pictogramme représentant un arbre sans feuille et un poisson mort, qu'est ce que cela indique ?",
+    "options": [
+      "Le produit est dangereux pour l'homme",
+      "Le produit est dangereux pour l'environnement",
+      "Le produit est recommandé pour la destruction des Nuisibles"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 433,
+    "q": "Sur les larves du sol, quelles sont les méthodes de lutte biologiques utilisables :",
+    "options": [
+      "Des nématodes",
+      "Le bacille de Thuringe",
+      "Le virus de la granulose",
+      "La solarisation"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 434,
+    "q": "Sur une parcelle, le ruissellement et donc l'entraînement par l'eau des produits phytopharmaceutiques peut être limité par :",
+    "options": [
+      "Le travail du sol perpendiculaire à la pente",
+      "Une limitation des doses de produits",
+      "L'amélioration de la structure du sol",
+      "La présence de bande de sol nu en bordure de parcelle"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 435,
+    "q": "Sur une plante, j'ai appliqué un herbicide à la place d'un fongicide  :",
+    "options": [
+      "La plante est détruite",
+      "La plante devient impropre à la consommation",
+      "Cela favorise la résistance de la plante",
+      "Cela stimule la pousse de la plante"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 436,
+    "q": "Traiter en présence de vent est :",
+    "options": [
+      "Autorisé si le vent est supérieur à 20 km/h",
+      "Autorisé si le vent inférieur à 19 km/h",
+      "Déconseillé car le vent augmente le risque de dérive"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 437,
+    "q": "Traiter à une température supérieure à 25° peut provoquer :",
+    "options": [
+      "Une évaporation du produit",
+      "Une baisse de l’efficacité du traitement",
+      "Une augmentation de l’efficacité des traitements"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 438,
+    "q": "Un auxiliaire des cultures :",
+    "options": [
+      "Est un ennemi d'un ennemi de la plante",
+      "Occasionne d’importants dégâts sur une culture",
+      "Se développe au dépend d’un végétal"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 439,
+    "q": "Un auxiliaire est :",
+    "options": [
+      "Un organisme qui détruit une culture",
+      "Un organisme qui détruit certains ravageurs d’une culture",
+      "Un organisme qui détruit tous les ravageurs d’une culture"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 440,
+    "q": "Un client veut se débarrasser d'un bidon vide de produit phytopharmaceutique de la gamme professionnelle. Vous lui conseillez de :",
+    "options": [
+      "Mettre le bidon bien fermé au tri sélectif",
+      "Porter lui même le bidon au point de collecte ADIVALOR le plus proche de son domicile",
+      "Porter ce bidon dans une déchetterie",
+      "Le détruire par incinération"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 441,
+    "q": "Un client vous demande si son produit phytopharmaceutique acheté (et entamé) il y a deux ans et toujours autorisé, peut encore être utilisé :",
+    "options": [
+      "Non car la date de péremption est dépassée",
+      "Non car le produit est encore utilisable 3 ans",
+      "Oui car il n'a pas de date de péremption et il a été conservé dans de bonnes conditions"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 442,
+    "q": "Un contrat annuel établi entre l'entreprise de prestation et le client :",
+    "options": [
+      "Doit toujours être complété par une commande écrite et signée",
+      "Dispense d'une commande écrite et signée",
+      "Dispense d'une commande écrite et signée, si les produits appliqués sont exempts de tout  classement toxicologique."
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 443,
+    "q": "Un de vos clients stocke ses produits phytopharmaceutiques dans un hangar aéré et fermé à clé. Que peut-il y  ranger d'autre dans ce local ?",
+    "options": [
+      "Ses EPI",
+      "Ses sacs d'engrais",
+      "Ses bidons d'huile usagée",
+      "Ses EVPP"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 444,
+    "q": "Un des moyens efficaces permettant de limiter les usages de Produits Phytopharmaceutiques sur les cultures consiste en l'application de",
+    "options": [
+      "Stimulateurs de Défense Naturelle des Plantes. Comment agissent ces produits ?",
+      "Ils rendent les plantes plus résistante aux attaques de bio agresseurs",
+      "Ils attirent les auxiliaires, prédateurs des ennemis des cultures",
+      "Ils détruisent les œufs des ravageurs"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 445,
+    "q": "Un des risques de pollution par la pulvérisation de produits phytopharmaceutiques concerne la dérive de bouillie vers les parcelles voisines. Pour limiter ce risque, vous avez comme moyens :",
+    "options": [
+      "L'amélioration des pratiques d'application",
+      "La mise en place des bandes enherbées autour de la parcelle",
+      "La diversification des cultures au sein de la parcelle",
+      "Pratiquer des rotations"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 446,
+    "q": "Un fongicide polyvalent est un fongicide :",
+    "options": [
+      "Qui peut être utilisé pour lutter contre un grand nombre de champignons",
+      "Qui peut être utilisé en toute saison",
+      "Qui peut être utilisé quelle que soit la plante cultivée"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 447,
+    "q": "Un fongicide sert à:",
+    "options": [
+      "Eliminer les adventices",
+      "Lutter contre les maladies cryptogamiques",
+      "Détruire les pucerons",
+      "Eliminer les limaces"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 448,
+    "q": "Un herbicide de contact est un herbicide :",
+    "options": [
+      "Toujours appliqué en post levée",
+      "Qui peut être véhiculé par la sève",
+      "Qui adhère bien sur les feuilles même en cas de pluie"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 449,
+    "q": "Un herbicide foliaire systémique est un herbicide :",
+    "options": [
+      "Qui est dégradé au niveau des feuilles",
+      "Qui pénètre par les feuilles et est véhiculé par la sève",
+      "Qui détruit systématiquement les feuilles de la plante"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 450,
+    "q": "Un herbicide systémique :",
+    "options": [
+      "Elimine systématiquement toutes les adventices",
+      "Brûle le feuillage à l’endroit où il a été déposé",
+      "Pénètre dans la plante et est véhiculé par la sève"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 451,
+    "q": "Un herbicide sélectif :",
+    "options": [
+      "Agit seulement sur certaines plantes",
+      "Agit sur toutes les plantes",
+      "Peut agit par absorption racinaire",
+      "Est toujours systémique"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 452,
+    "q": "Un herbicide total est un produit :",
+    "options": [
+      "Qui est utilisable dans toutes les situations",
+      "Qui a toujours une action racinaire",
+      "Qui est efficace sur l'ensemble des  adventices",
+      "Qui est toujours absorbé par les feuilles"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 453,
+    "q": "Un insecticide de type organo-phosphoré est un produit qui :",
+    "options": [
+      "Agit par contact",
+      "Agit sur le système nerveux des insectes",
+      "Agit sur le développement des insectes en empêchant leur mue"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 454,
+    "q": "Un piège à phéromones sexuelles permet de :",
+    "options": [
+      "Eloigner les papillons",
+      "Désorienter les papillons mâles qui ne trouvent plus les femelles",
+      "Stériliser les papillons mâles"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 455,
+    "q": "Un produit cancérigène (classé CMR), peut provoquer le cancer :",
+    "options": [
+      "A partir d'une faible exposition",
+      "Uniquement avec des expositions répétées",
+      "Uniquement après une très forte exposition"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 456,
+    "q": "Un produit est dit reprotoxique, s'il peut provoquer  :",
+    "options": [
+      "Des convulsions chez le rat",
+      "Une attaque cardiaque susceptible de terrasser immédiatement la personne qui l'ingérerait par erreur",
+      "Des malformations congénitales"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 457,
+    "q": "Un produit mutagène (classé CMR), peut provoquer des anomalies génétiques :",
+    "options": [
+      "Uniquement avec des expositions répétées",
+      "A partir d'une faible exposition",
+      "Uniquement après une très forte exposition"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 458,
+    "q": "Un produit phytopharmaceutique contient :",
+    "options": [
+      "Uniquement des substances actives",
+      "Parfois plusieurs substances actives",
+      "Au moins une substance active"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 459,
+    "q": "Un produit phytopharmaceutique interdit d’utilisation devient un :",
+    "options": [
+      "ADIVALOR",
+      "PPNU",
+      "EVPP"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 460,
+    "q": "Un produit phytopharmaceutique liquide devient un PPNU si :",
+    "options": [
+      "Si l'AMM est retirée",
+      "Le bidon est entamé",
+      "Si l'étiquette est illisible",
+      "Si ile est en stock depuis plus de 3 ans"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 461,
+    "q": "Un Produit Phytopharmaceutique Non Utilisable est récupéré par la filière Adivalor si :",
+    "options": [
+      "Il n’a plus d’Autorisation de Mise sur le Marché (AMM) en cours de validité",
+      "Il est en mauvais état de conservation",
+      "Il n’est pas dans son emballage d’origine"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 462,
+    "q": "Un produit phytopharmaceutique peut être utilisé :",
+    "options": [
+      "Seulement si le seuil de nuisibilité est atteint",
+      "Sur des cultures pour lesquelles il n'est pas homologué s'il n'existe pas de produit efficace homologué",
+      "Seulement sur des cultures appartenant à la même famille botanique que la culture pour laquelle il est homologué",
+      "Seulement pour les cultures pour lesquelles il a reçu une autorisation de mise sur le marché"
+    ],
+    "answers": [
+      3
+    ]
+  },
+  {
+    "id": 463,
+    "q": "Un produit systémique, c'est un produit :",
+    "options": [
+      "Que l'on peut systématiquement  appliquer quelque soit l'ennemi à combattre",
+      "Qui est véhiculé par la sève dans les végétaux",
+      "Qui agit par simple contact"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 464,
+    "q": "Une cabine de catégorie 4 doit obligatoirement:",
+    "options": [
+      "Etre contrôlée tous les ans",
+      "Avoir un indicateur de pression",
+      "Posséder un filtre UVA et UVB"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 465,
+    "q": "Une entreprise de travaux et services agricoles peut circuler sur la route avec un pulvérisateur plein de bouillie de produit phytopharmaceutique :",
+    "options": [
+      "Uniquement s'il y a moins de 50 kg ou 50 litres de produits commerciaux dans le pulvérisateur.",
+      "Sans restriction",
+      "Uniquement si la distance effectuée est inférieure à 35 km"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 466,
+    "q": "Une entreprise de travaux et services épand des microgranulés :",
+    "options": [
+      "Il n'y a pas d'obligation à se protéger avec des EPI",
+      "Seuls les gants sont obligatoires",
+      "Cela dépend de la préconisation de la FDS"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 467,
+    "q": "Une fois dans l'organisme, les produits phytosanitaires sont stockés principalement :",
+    "options": [
+      "Dans les muscles",
+      "Dans le cœur",
+      "Dans le cerveau"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 468,
+    "q": "Une fois dans l'organisme, les produits phytosanitaires sont stockés principalement :",
+    "options": [
+      "Dans les graisses",
+      "Dans les os",
+      "Dans les dents"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 469,
+    "q": "Une fois dans l'organisme, les produits phytosanitaires sont éliminés :",
+    "options": [
+      "Quand on respire",
+      "Quand on réfléchit",
+      "Quand on transpire"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 470,
+    "q": "Une fois dans l'organisme, les produits phytosanitaires sont éliminés :",
+    "options": [
+      "Quand on se lave les cheveux",
+      "Quand on allaite",
+      "Quand on conduit"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 471,
+    "q": "Une fois dans l'organisme, les produits phytosanitaires sont éliminés :",
+    "options": [
+      "Quand on urine",
+      "Quand on souffle",
+      "Quand on dort"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 472,
+    "q": "Une intoxication aiguë par des produits phytopharmaceutiques est due à :",
+    "options": [
+      "Une administration d'une dose unique",
+      "Une administration de doses répétées pendant une durée très courte",
+      "Une administration de doses répétées pendant une durée très longue"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 473,
+    "q": "Une intoxication chronique par des produits phytopharmaceutiques se traduit par :",
+    "options": [
+      "Des effets immédiats",
+      "Des effets à long terme",
+      "Un état de choc"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 474,
+    "q": "Une méthode de lutte intégrée consiste à :",
+    "options": [
+      "Utiliser une spécialité commerciale au spectre d’action le plus large possible",
+      "Utiliser une combinaison logique de plusieurs méthodes de lutte",
+      "Traiter par l’intermédiaire d’un réseau d’irrigation intégré"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 475,
+    "q": "Une personne a été embauchée pour appliquer des produits phytopharmaceutiques  il y a 5 mois dans une entreprise. Elle n'est pas titulaire du certificat individuel produits phytopharmaceutiques  :",
+    "options": [
+      "Elle peut effectuer des applications pendant les 6 premiers mois jusqu'à l'obtention de son certificat, si elle est encadrée par un collègue détenteur d'un CIPP",
+      "Elle ne peut pas effectuer d'applications, on doit être certifié dès le jour de son entrée dans l'entreprise",
+      "Elle ne peut pas effectuer d'applications car on doit être certifié dans les 3 mois qui suivent l'embauche",
+      "Elle ne peut pas effectuer d'applications car on doit être certifié dans le mois qui suit l'embauche"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 476,
+    "q": "Une plante hôte est :",
+    "options": [
+      "Une plante qui va permettre à un ou plusieurs insectes d’effectuer une partie de leur cycle",
+      "Une plante qui va permettre à une maladie de faire une partie de son cycle",
+      "A éliminer systématiquement"
+    ],
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 477,
+    "q": "Une spécialité commerciale désherbante doit être utilisée à la dose de 1 litre /Ha, quelle quantité allez-vous prévoir pour traiter 6.000m² ?",
+    "options": [
+      "6 litres",
+      "0,6 litre",
+      "0,06 litre"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 478,
+    "q": "Une utilisation répétée d'insecticides à large spectre d’action peut avoir comme conséquences :",
+    "options": [
+      "La disparition d’insectes auxiliaires de la culture",
+      "Une modification de l’équilibre de la chaîne alimentaire dans un écosystème",
+      "La mort des végétaux sur lesquels on a réalisé ces traitements",
+      "L’apparition de nouveaux ravageurs sur la culture"
+    ],
+    "answers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 479,
+    "q": "Vous avez par accident ingéré une petite quantité de produit phytopharmaceutique. Pour limiter les effets, proposez un comportement adapté en attendant les secours :",
+    "options": [
+      "Boire de l'eau",
+      "Boire du lait",
+      "Ne pas boire",
+      "Vomir"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 480,
+    "q": "Vous avez renversé accidentellement un produit phytopharmaceutique liquide dans un local à sol cimenté, quelle intervention proposez-vous ?",
+    "options": [
+	  "Répandre un produit d’inertage au sol (sciure, litière, kit d’absorption …)",
+      "Laver à grande eau",
+      "Éponger avec une serpillière",
+      "Laisser sécher puis racler"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 481,
+    "q": "Vous devez faire un traitement phytopharmaceutique, quel est l’ordre des opérations de mise en œuvre : 1 je règle la pression de fonctionnement, 2 je détermine le volume de bouillie à épandre, 3 je choisis le type de buses adaptées au traitement, 4 je vérifie le débit des buses en fonction du volume hectare choisi",
+    "options": [
+	  "1234",
+	  "1432",
+	  "2314",
+	  "3241"
+	],
+    "answers": [
+	  2
+	]
+  },
+  {
+    "id": 482,
+    "q": "Vous devez obtenir un mélange à 2% dans un pulvérisateur de 500 litres, vous allez diluer :",
+    "options": [
+      "2 l dans 500 l",
+      "4 l dans 500 l",
+      "10 l dans 500 l"
+    ],
+    "answers": [
+      2
+    ]
+  },
+  {
+    "id": 483,
+    "q": "Vous devez traiter des plantes en fleur avec un insecticide.",
+    "options": [
+      "C'est possible avec un produit portant la mention abeille",
+      "C'est possible avec un produit portant la mention abeille et en dehors de la présence des abeilles",
+      "C'est possible avec tous les insecticides en dehors de la présence d'abeilles"
+    ],
+    "answers": [
+      1
+    ]
+  },
+  {
+    "id": 484,
+    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ?",
+    "options": [
+	  "Rien, demain ça ira mieux",
+      "J'appelle le numéro vert de Phyt'attitude 0 800 887 887",
+      "J'appelle le centre-antipoison"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 485,
+    "q": "Vous développez une réaction cutanée à la suite de l'application d'un traitement phytosanitaire, que faites-vous ?",
+    "options": [
+	  "Rien, demain ça ira mieux",
+      "J'appelle mon médecin traitant",
+      "Je préviens le  service de Santé au Travail"
+    ],
+    "answers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 486,
+    "q": "Vous observez sur une culture un ravageur phytophage. Quelle est votre réaction ?",
+    "options": [
+      "Je réalise dès que possible un traitement insecticide sélectif de contact",
+      "Je détermine le seuil de nuisibilité de ce ravageur",
+      "JE me renseigne sur le développement du ravageur pour intervenir au bon moment",
+      "J’appelle un conseiller pour avoir des informations sur ce ravageur"
+    ],
+    "answers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 487,
+    "q": "Vous préparez une bouillie pour un traitement insecticide sur une culture. Quels sont les équipements de protection individuelle adaptés et nécessaires ?",
+    "options": [
+      "Des gants",
+      "Un masque de protection respiratoire",
+      "Un casque antibruit",
+      "Une combinaison imperméable de traitement",
+      "Des chaussures de sécurité",
+      "Des bottes"
+    ],
+    "answers": [
+      0,
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 488,
+    "q": "Vous utilisez un désherbant foliaire systémique en badigeons à proximité d'un cours d'eau référencé sur une carte IGN au 1/25000ème :",
+    "options": [
+      "Vous n'êtes pas tenu de respecter de zone non traitée",
+      "Vous devez respecter 5 mètres de zone non traitée",
+      "Vous devez respecter 1 mètre de zone non traitée",
+      "Vous devez respecter 50 mètres de zone non traitée"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 489,
+    "q": "Vous utilisez un pulvérisateur équipé d'anti-goutte. Quelle est son utilité ?",
+    "options": [
+      "Arrêter et démarrer instantanément la pulvérisation",
+      "Eviter de perdre du produit durant l'application",
+      "Eviter de perdre du produit pendant le transport",
+      "Assurer une bonne diffusion du produit"
+    ],
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 490,
+    "q": "Vous utilisez une spécialité commerciale contenant du bacille de Thuringe, autorisée en agriculture biologique, avec la mention de danger H317 (Peut provoquer une allergie cutanée) :",
+    "options": [
+      "Vous êtes tenu de respecter 48h de délai de rentrée",
+      "Vous êtes tenu de respecter 24h de délai de rentrée",
+      "Vous êtes tenu de respecter 6h de délai de rentrée",
+      "Vous n'êtes pas tenu de respecter de délai de rentrée"
+    ],
+    "answers": [
+      0
+    ]
+  },
+  {
+    "id": 491,
+    "q": "Vous utilisez une spécialité commerciale Utilisable en Agriculture Biologique sans classement toxicologique dans une serre :",
+    "options": [
+      "Vous n'êtes pas tenu de respecter 48h de délai de rentrée",
+      "Vous êtes tenu de respecter 24h de délai de rentrée",
+      "Vous êtes tenu de respecter 8h de délai de rentrée",
+      "Vous êtes tenu de respecter 6h de délai de rentrée",
+      "Vous n'êtes pas tenu de respecter de délai de rentrée"
+    ],
+    "answers": [
+      2
+    ]
+  }
+]
