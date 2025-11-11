@@ -16,4 +16,4 @@ Il permet de s’exercer à partir d’un pool de questions aléatoires et d’o
 ## Utilisation
 
 Le quiz est accessible en ligne via GitHub Pages :
-[https://julienca02.github.io/quizz-certiphyto/](https://julienca02.github.io/quizz-certiphyto/)
+[https://julienca02.github.io/quiz-certiphyto/](https://julienca02.github.io/quiz-certiphyto/)
